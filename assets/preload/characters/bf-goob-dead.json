@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				2008,
+				810
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "DEATH",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-102,
+				185
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "Retry cutely",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-107,
+				-202
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "deathLoop",
+			"loop": true,
+			"name": "Wait"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "GOOB/disturbancebfdeath",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "cbf",
+	"flip_x": true,
+	"healthbar_colors": [
+		31,
+		26,
+		47
+	],
+	"camera_position": [
+		10000,
+		-540
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

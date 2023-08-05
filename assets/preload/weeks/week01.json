@@ -1,0 +1,50 @@
+{
+	"storyName": "Old Friends",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "philly",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"inception",
+			"picod1",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"chimera",
+			"picod2",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"outrage",
+			"picod3",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"weekCharacters": [
+		"pico",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Old Friends"
+}

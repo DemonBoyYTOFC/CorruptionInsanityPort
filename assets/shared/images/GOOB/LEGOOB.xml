@@ -1,0 +1,155 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="LEGOOB.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Le car0000" x="0" y="0" width="718" height="552" frameX="0" frameY="0" frameWidth="718" frameHeight="572"/>
+	<SubTexture name="Le car0001" x="718" y="0" width="679" height="516" frameX="-13" frameY="-29" frameWidth="718" frameHeight="572"/>
+	<SubTexture name="Le car0002" x="1397" y="0" width="660" height="504" frameX="-26" frameY="-39" frameWidth="718" frameHeight="572"/>
+	<SubTexture name="Le car0003" x="2057" y="0" width="641" height="494" frameX="-39" frameY="-49" frameWidth="718" frameHeight="572"/>
+	<SubTexture name="Le car0004" x="2698" y="0" width="622" height="484" frameX="-52" frameY="-59" frameWidth="718" frameHeight="572"/>
+	<SubTexture name="Le car0005" x="3320" y="0" width="603" height="475" frameX="-65" frameY="-69" frameWidth="718" frameHeight="572"/>
+	<SubTexture name="Le car0006" x="0" y="552" width="584" height="465" frameX="-78" frameY="-79" frameWidth="718" frameHeight="572"/>
+	<SubTexture name="Le car0007" x="584" y="552" width="565" height="455" frameX="-91" frameY="-89" frameWidth="718" frameHeight="572"/>
+	<SubTexture name="Le car0008" x="1149" y="552" width="547" height="447" frameX="-104" frameY="-98" frameWidth="718" frameHeight="572"/>
+	<SubTexture name="Le car0009" x="1696" y="552" width="528" height="461" frameX="-117" frameY="-91" frameWidth="718" frameHeight="572"/>
+	<SubTexture name="Le car0010" x="2224" y="552" width="509" height="497" frameX="-130" frameY="-64" frameWidth="718" frameHeight="572"/>
+	<SubTexture name="Le car0011" x="2733" y="552" width="490" height="535" frameX="-143" frameY="-37" frameWidth="718" frameHeight="572"/>
+	<SubTexture name="Le car0012" x="2733" y="552" width="490" height="535" frameX="-143" frameY="-37" frameWidth="718" frameHeight="572"/>
+	<SubTexture name="Le car0013" x="2733" y="552" width="490" height="535" frameX="-143" frameY="-37" frameWidth="718" frameHeight="572"/>
+	<SubTexture name="Le car0014" x="2733" y="552" width="490" height="535" frameX="-143" frameY="-37" frameWidth="718" frameHeight="572"/>
+	<SubTexture name="Le car0015" x="2733" y="552" width="490" height="535" frameX="-143" frameY="-37" frameWidth="718" frameHeight="572"/>
+	<SubTexture name="Le car0016" x="2733" y="552" width="490" height="535" frameX="-143" frameY="-37" frameWidth="718" frameHeight="572"/>
+	<SubTexture name="Le car0017" x="2733" y="552" width="490" height="535" frameX="-143" frameY="-37" frameWidth="718" frameHeight="572"/>
+	<SubTexture name="Le car0018" x="2733" y="552" width="490" height="535" frameX="-143" frameY="-37" frameWidth="718" frameHeight="572"/>
+	<SubTexture name="Le car0019" x="2733" y="552" width="490" height="535" frameX="-143" frameY="-37" frameWidth="718" frameHeight="572"/>
+	<SubTexture name="Le car0020" x="2733" y="552" width="490" height="535" frameX="-143" frameY="-37" frameWidth="718" frameHeight="572"/>
+	<SubTexture name="Le car0021" x="2733" y="552" width="490" height="535" frameX="-143" frameY="-37" frameWidth="718" frameHeight="572"/>
+	<SubTexture name="Le car0022" x="2733" y="552" width="490" height="535" frameX="-143" frameY="-37" frameWidth="718" frameHeight="572"/>
+	<SubTexture name="Le car0023" x="2733" y="552" width="490" height="535" frameX="-143" frameY="-37" frameWidth="718" frameHeight="572"/>
+	<SubTexture name="Le car0024" x="2733" y="552" width="490" height="535" frameX="-143" frameY="-37" frameWidth="718" frameHeight="572"/>
+	<SubTexture name="Le car0025" x="2733" y="552" width="490" height="535" frameX="-143" frameY="-37" frameWidth="718" frameHeight="572"/>
+	<SubTexture name="Le car0026" x="2733" y="552" width="490" height="535" frameX="-143" frameY="-37" frameWidth="718" frameHeight="572"/>
+	<SubTexture name="Le car0027" x="2733" y="552" width="490" height="535" frameX="-143" frameY="-37" frameWidth="718" frameHeight="572"/>
+	<SubTexture name="Le car0028" x="2733" y="552" width="490" height="535" frameX="-143" frameY="-37" frameWidth="718" frameHeight="572"/>
+	<SubTexture name="Le car0029" x="2733" y="552" width="490" height="535" frameX="-143" frameY="-37" frameWidth="718" frameHeight="572"/>
+	<SubTexture name="Le idle0000" x="3223" y="552" width="704" height="450" frameX="0" frameY="-44" frameWidth="704" frameHeight="494"/>
+	<SubTexture name="Le idle0001" x="0" y="1087" width="704" height="494"/>
+	<SubTexture name="Le idle0002" x="704" y="1087" width="700" height="485" frameX="-2" frameY="-9" frameWidth="704" frameHeight="494"/>
+	<SubTexture name="Le idle0003" x="1404" y="1087" width="700" height="485" frameX="-2" frameY="-9" frameWidth="704" frameHeight="494"/>
+	<SubTexture name="Le idle0004" x="1404" y="1087" width="700" height="485" frameX="-2" frameY="-9" frameWidth="704" frameHeight="494"/>
+	<SubTexture name="Le idle0005" x="1404" y="1087" width="700" height="485" frameX="-2" frameY="-9" frameWidth="704" frameHeight="494"/>
+	<SubTexture name="Le idle0006" x="1404" y="1087" width="700" height="485" frameX="-2" frameY="-9" frameWidth="704" frameHeight="494"/>
+	<SubTexture name="Le idle0007" x="1404" y="1087" width="700" height="485" frameX="-2" frameY="-9" frameWidth="704" frameHeight="494"/>
+	<SubTexture name="Le idle0008" x="1404" y="1087" width="700" height="485" frameX="-2" frameY="-9" frameWidth="704" frameHeight="494"/>
+	<SubTexture name="Le idle0009" x="1404" y="1087" width="700" height="485" frameX="-2" frameY="-9" frameWidth="704" frameHeight="494"/>
+	<SubTexture name="Le idle0010" x="1404" y="1087" width="700" height="485" frameX="-2" frameY="-9" frameWidth="704" frameHeight="494"/>
+	<SubTexture name="Le idle0011" x="1404" y="1087" width="700" height="485" frameX="-2" frameY="-9" frameWidth="704" frameHeight="494"/>
+	<SubTexture name="Le idle0012" x="1404" y="1087" width="700" height="485" frameX="-2" frameY="-9" frameWidth="704" frameHeight="494"/>
+	<SubTexture name="Le idle0013" x="1404" y="1087" width="700" height="485" frameX="-2" frameY="-9" frameWidth="704" frameHeight="494"/>
+	<SubTexture name="Le idle0014" x="1404" y="1087" width="700" height="485" frameX="-2" frameY="-9" frameWidth="704" frameHeight="494"/>
+	<SubTexture name="Le idle0015" x="1404" y="1087" width="700" height="485" frameX="-2" frameY="-9" frameWidth="704" frameHeight="494"/>
+	<SubTexture name="Le idle0016" x="3223" y="552" width="704" height="450" frameX="0" frameY="-44" frameWidth="704" frameHeight="494"/>
+	<SubTexture name="Le idle0017" x="0" y="1087" width="704" height="494"/>
+	<SubTexture name="Le idle0018" x="704" y="1087" width="700" height="485" frameX="-2" frameY="-9" frameWidth="704" frameHeight="494"/>
+	<SubTexture name="Le idle0019" x="1404" y="1087" width="700" height="485" frameX="-2" frameY="-9" frameWidth="704" frameHeight="494"/>
+	<SubTexture name="Le idle0020" x="1404" y="1087" width="700" height="485" frameX="-2" frameY="-9" frameWidth="704" frameHeight="494"/>
+	<SubTexture name="Le idle0021" x="1404" y="1087" width="700" height="485" frameX="-2" frameY="-9" frameWidth="704" frameHeight="494"/>
+	<SubTexture name="Le idle0022" x="1404" y="1087" width="700" height="485" frameX="-2" frameY="-9" frameWidth="704" frameHeight="494"/>
+	<SubTexture name="Le idle0023" x="1404" y="1087" width="700" height="485" frameX="-2" frameY="-9" frameWidth="704" frameHeight="494"/>
+	<SubTexture name="Le idle0024" x="1404" y="1087" width="700" height="485" frameX="-2" frameY="-9" frameWidth="704" frameHeight="494"/>
+	<SubTexture name="Le idle0025" x="1404" y="1087" width="700" height="485" frameX="-2" frameY="-9" frameWidth="704" frameHeight="494"/>
+	<SubTexture name="Le idle0026" x="1404" y="1087" width="700" height="485" frameX="-2" frameY="-9" frameWidth="704" frameHeight="494"/>
+	<SubTexture name="Le idle0027" x="1404" y="1087" width="700" height="485" frameX="-2" frameY="-9" frameWidth="704" frameHeight="494"/>
+	<SubTexture name="Le idle0028" x="1404" y="1087" width="700" height="485" frameX="-2" frameY="-9" frameWidth="704" frameHeight="494"/>
+	<SubTexture name="Le idle0029" x="1404" y="1087" width="700" height="485" frameX="-2" frameY="-9" frameWidth="704" frameHeight="494"/>
+	<SubTexture name="Le mimimi0000" x="2104" y="1087" width="704" height="485" frameX="0" frameY="-83" frameWidth="704" frameHeight="568"/>
+	<SubTexture name="Le mimimi0001" x="2808" y="1087" width="704" height="485" frameX="0" frameY="-83" frameWidth="704" frameHeight="568"/>
+	<SubTexture name="Le mimimi0002" x="0" y="1581" width="700" height="485" frameX="-2" frameY="-83" frameWidth="704" frameHeight="568"/>
+	<SubTexture name="Le mimimi0003" x="700" y="1581" width="700" height="485" frameX="-2" frameY="-83" frameWidth="704" frameHeight="568"/>
+	<SubTexture name="Le mimimi0004" x="700" y="1581" width="700" height="485" frameX="-2" frameY="-83" frameWidth="704" frameHeight="568"/>
+	<SubTexture name="Le mimimi0005" x="700" y="1581" width="700" height="485" frameX="-2" frameY="-83" frameWidth="704" frameHeight="568"/>
+	<SubTexture name="Le mimimi0006" x="700" y="1581" width="700" height="485" frameX="-2" frameY="-83" frameWidth="704" frameHeight="568"/>
+	<SubTexture name="Le mimimi0007" x="700" y="1581" width="700" height="485" frameX="-2" frameY="-83" frameWidth="704" frameHeight="568"/>
+	<SubTexture name="Le mimimi0008" x="700" y="1581" width="700" height="485" frameX="-2" frameY="-83" frameWidth="704" frameHeight="568"/>
+	<SubTexture name="Le mimimi0009" x="1400" y="1581" width="700" height="488" frameX="-2" frameY="-80" frameWidth="704" frameHeight="568"/>
+	<SubTexture name="Le mimimi0010" x="2100" y="1581" width="700" height="494" frameX="-2" frameY="-74" frameWidth="704" frameHeight="568"/>
+	<SubTexture name="Le mimimi0011" x="2800" y="1581" width="700" height="512" frameX="-2" frameY="-56" frameWidth="704" frameHeight="568"/>
+	<SubTexture name="Le mimimi0012" x="0" y="2093" width="700" height="531" frameX="-2" frameY="-37" frameWidth="704" frameHeight="568"/>
+	<SubTexture name="Le mimimi0013" x="700" y="2093" width="700" height="564" frameX="-2" frameY="-4" frameWidth="704" frameHeight="568"/>
+	<SubTexture name="Le mimimi0014" x="1400" y="2093" width="700" height="568" frameX="-2" frameY="0" frameWidth="704" frameHeight="568"/>
+	<SubTexture name="Le mimimi0015" x="1404" y="1087" width="700" height="485" frameX="-2" frameY="-83" frameWidth="704" frameHeight="494"/>
+	<SubTexture name="Le mimimi0016" x="2100" y="2093" width="704" height="485" frameX="0" frameY="-83" frameWidth="704" frameHeight="568"/>
+	<SubTexture name="Le mimimi0017" x="2100" y="2093" width="704" height="485" frameX="0" frameY="-83" frameWidth="704" frameHeight="568"/>
+	<SubTexture name="Le mimimi0018" x="704" y="1087" width="700" height="485" frameX="-2" frameY="-83" frameWidth="704" frameHeight="494"/>
+	<SubTexture name="Le mimimi0019" x="1404" y="1087" width="700" height="485" frameX="-2" frameY="-83" frameWidth="704" frameHeight="494"/>
+	<SubTexture name="Le mimimi0020" x="1404" y="1087" width="700" height="485" frameX="-2" frameY="-83" frameWidth="704" frameHeight="494"/>
+	<SubTexture name="Le mimimi0021" x="1404" y="1087" width="700" height="485" frameX="-2" frameY="-83" frameWidth="704" frameHeight="494"/>
+	<SubTexture name="Le mimimi0022" x="1404" y="1087" width="700" height="485" frameX="-2" frameY="-83" frameWidth="704" frameHeight="494"/>
+	<SubTexture name="Le mimimi0023" x="1404" y="1087" width="700" height="485" frameX="-2" frameY="-83" frameWidth="704" frameHeight="494"/>
+	<SubTexture name="Le mimimi0024" x="1404" y="1087" width="700" height="485" frameX="-2" frameY="-83" frameWidth="704" frameHeight="494"/>
+	<SubTexture name="Le mimimi0025" x="1404" y="1087" width="700" height="485" frameX="-2" frameY="-83" frameWidth="704" frameHeight="494"/>
+	<SubTexture name="Le mimimi0026" x="1404" y="1087" width="700" height="485" frameX="-2" frameY="-83" frameWidth="704" frameHeight="494"/>
+	<SubTexture name="Le mimimi0027" x="1404" y="1087" width="700" height="485" frameX="-2" frameY="-83" frameWidth="704" frameHeight="494"/>
+	<SubTexture name="Le mimimi0028" x="1404" y="1087" width="700" height="485" frameX="-2" frameY="-83" frameWidth="704" frameHeight="494"/>
+	<SubTexture name="Le mimimi0029" x="1404" y="1087" width="700" height="485" frameX="-2" frameY="-83" frameWidth="704" frameHeight="494"/>
+	<SubTexture name="Le stare0000" x="2804" y="2093" width="704" height="477" frameX="0" frameY="-56" frameWidth="704" frameHeight="533"/>
+	<SubTexture name="Le stare0001" x="0" y="2661" width="704" height="533"/>
+	<SubTexture name="Le stare0002" x="704" y="2661" width="700" height="527" frameX="-2" frameY="-6" frameWidth="704" frameHeight="533"/>
+	<SubTexture name="Le stare0003" x="1404" y="2661" width="700" height="527" frameX="-2" frameY="-6" frameWidth="704" frameHeight="533"/>
+	<SubTexture name="Le stare0004" x="1404" y="2661" width="700" height="527" frameX="-2" frameY="-6" frameWidth="704" frameHeight="533"/>
+	<SubTexture name="Le stare0005" x="1404" y="2661" width="700" height="527" frameX="-2" frameY="-6" frameWidth="704" frameHeight="533"/>
+	<SubTexture name="Le stare0006" x="1404" y="2661" width="700" height="527" frameX="-2" frameY="-6" frameWidth="704" frameHeight="533"/>
+	<SubTexture name="Le stare0007" x="1404" y="2661" width="700" height="527" frameX="-2" frameY="-6" frameWidth="704" frameHeight="533"/>
+	<SubTexture name="Le stare0008" x="1404" y="2661" width="700" height="527" frameX="-2" frameY="-6" frameWidth="704" frameHeight="533"/>
+	<SubTexture name="Le stare0009" x="1404" y="2661" width="700" height="527" frameX="-2" frameY="-6" frameWidth="704" frameHeight="533"/>
+	<SubTexture name="Le stare0010" x="1404" y="2661" width="700" height="527" frameX="-2" frameY="-6" frameWidth="704" frameHeight="533"/>
+	<SubTexture name="Le stare0011" x="1404" y="2661" width="700" height="527" frameX="-2" frameY="-6" frameWidth="704" frameHeight="533"/>
+	<SubTexture name="Le stare0012" x="1404" y="2661" width="700" height="527" frameX="-2" frameY="-6" frameWidth="704" frameHeight="533"/>
+	<SubTexture name="Le stare0013" x="1404" y="2661" width="700" height="527" frameX="-2" frameY="-6" frameWidth="704" frameHeight="533"/>
+	<SubTexture name="Le stare0014" x="1404" y="2661" width="700" height="527" frameX="-2" frameY="-6" frameWidth="704" frameHeight="533"/>
+	<SubTexture name="Le stare0015" x="1404" y="2661" width="700" height="527" frameX="-2" frameY="-6" frameWidth="704" frameHeight="533"/>
+	<SubTexture name="Le stare0016" x="2804" y="2093" width="704" height="477" frameX="0" frameY="-56" frameWidth="704" frameHeight="533"/>
+	<SubTexture name="Le stare0017" x="0" y="2661" width="704" height="533"/>
+	<SubTexture name="Le stare0018" x="704" y="2661" width="700" height="527" frameX="-2" frameY="-6" frameWidth="704" frameHeight="533"/>
+	<SubTexture name="Le stare0019" x="1404" y="2661" width="700" height="527" frameX="-2" frameY="-6" frameWidth="704" frameHeight="533"/>
+	<SubTexture name="Le stare0020" x="1404" y="2661" width="700" height="527" frameX="-2" frameY="-6" frameWidth="704" frameHeight="533"/>
+	<SubTexture name="Le stare0021" x="1404" y="2661" width="700" height="527" frameX="-2" frameY="-6" frameWidth="704" frameHeight="533"/>
+	<SubTexture name="Le stare0022" x="1404" y="2661" width="700" height="527" frameX="-2" frameY="-6" frameWidth="704" frameHeight="533"/>
+	<SubTexture name="Le stare0023" x="1404" y="2661" width="700" height="527" frameX="-2" frameY="-6" frameWidth="704" frameHeight="533"/>
+	<SubTexture name="Le stare0024" x="1404" y="2661" width="700" height="527" frameX="-2" frameY="-6" frameWidth="704" frameHeight="533"/>
+	<SubTexture name="Le stare0025" x="1404" y="2661" width="700" height="527" frameX="-2" frameY="-6" frameWidth="704" frameHeight="533"/>
+	<SubTexture name="Le stare0026" x="1404" y="2661" width="700" height="527" frameX="-2" frameY="-6" frameWidth="704" frameHeight="533"/>
+	<SubTexture name="Le stare0027" x="1404" y="2661" width="700" height="527" frameX="-2" frameY="-6" frameWidth="704" frameHeight="533"/>
+	<SubTexture name="Le stare0028" x="1404" y="2661" width="700" height="527" frameX="-2" frameY="-6" frameWidth="704" frameHeight="533"/>
+	<SubTexture name="Le stare0029" x="1404" y="2661" width="700" height="527" frameX="-2" frameY="-6" frameWidth="704" frameHeight="533"/>
+	<SubTexture name="Le wake up0000" x="2100" y="2093" width="704" height="485" frameX="0" frameY="-42" frameWidth="704" frameHeight="568"/>
+	<SubTexture name="Le wake up0001" x="2104" y="2661" width="704" height="485" frameX="0" frameY="-42" frameWidth="704" frameHeight="527"/>
+	<SubTexture name="Le wake up0002" x="2808" y="2661" width="700" height="485" frameX="-2" frameY="-42" frameWidth="704" frameHeight="527"/>
+	<SubTexture name="Le wake up0003" x="0" y="3194" width="700" height="467" frameX="-2" frameY="-60" frameWidth="704" frameHeight="527"/>
+	<SubTexture name="Le wake up0004" x="700" y="3194" width="700" height="482" frameX="-2" frameY="-45" frameWidth="704" frameHeight="527"/>
+	<SubTexture name="Le wake up0005" x="1400" y="3194" width="700" height="527" frameX="-2" frameY="0" frameWidth="704" frameHeight="527"/>
+	<SubTexture name="Le wake up0006" x="1400" y="3194" width="700" height="527" frameX="-2" frameY="0" frameWidth="704" frameHeight="527"/>
+	<SubTexture name="Le wake up0007" x="1400" y="3194" width="700" height="527" frameX="-2" frameY="0" frameWidth="704" frameHeight="527"/>
+	<SubTexture name="Le wake up0008" x="1400" y="3194" width="700" height="527" frameX="-2" frameY="0" frameWidth="704" frameHeight="527"/>
+	<SubTexture name="Le wake up0009" x="1400" y="3194" width="700" height="527" frameX="-2" frameY="0" frameWidth="704" frameHeight="527"/>
+	<SubTexture name="Le wake up0010" x="1400" y="3194" width="700" height="527" frameX="-2" frameY="0" frameWidth="704" frameHeight="527"/>
+	<SubTexture name="Le wake up0011" x="1400" y="3194" width="700" height="527" frameX="-2" frameY="0" frameWidth="704" frameHeight="527"/>
+	<SubTexture name="Le wake up0012" x="1400" y="3194" width="700" height="527" frameX="-2" frameY="0" frameWidth="704" frameHeight="527"/>
+	<SubTexture name="Le wake up0013" x="1400" y="3194" width="700" height="527" frameX="-2" frameY="0" frameWidth="704" frameHeight="527"/>
+	<SubTexture name="Le wake up0014" x="1400" y="3194" width="700" height="527" frameX="-2" frameY="0" frameWidth="704" frameHeight="527"/>
+	<SubTexture name="Le wake up0015" x="1400" y="3194" width="700" height="527" frameX="-2" frameY="0" frameWidth="704" frameHeight="527"/>
+	<SubTexture name="Le wake up0016" x="2100" y="3194" width="704" height="527"/>
+	<SubTexture name="Le wake up0017" x="2100" y="3194" width="704" height="527"/>
+	<SubTexture name="Le wake up0018" x="2804" y="3194" width="700" height="527" frameX="-2" frameY="0" frameWidth="704" frameHeight="527"/>
+	<SubTexture name="Le wake up0019" x="1400" y="3194" width="700" height="527" frameX="-2" frameY="0" frameWidth="704" frameHeight="527"/>
+	<SubTexture name="Le wake up0020" x="1400" y="3194" width="700" height="527" frameX="-2" frameY="0" frameWidth="704" frameHeight="527"/>
+	<SubTexture name="Le wake up0021" x="1400" y="3194" width="700" height="527" frameX="-2" frameY="0" frameWidth="704" frameHeight="527"/>
+	<SubTexture name="Le wake up0022" x="1400" y="3194" width="700" height="527" frameX="-2" frameY="0" frameWidth="704" frameHeight="527"/>
+	<SubTexture name="Le wake up0023" x="1400" y="3194" width="700" height="527" frameX="-2" frameY="0" frameWidth="704" frameHeight="527"/>
+	<SubTexture name="Le wake up0024" x="1400" y="3194" width="700" height="527" frameX="-2" frameY="0" frameWidth="704" frameHeight="527"/>
+	<SubTexture name="Le wake up0025" x="1400" y="3194" width="700" height="527" frameX="-2" frameY="0" frameWidth="704" frameHeight="527"/>
+	<SubTexture name="Le wake up0026" x="1400" y="3194" width="700" height="527" frameX="-2" frameY="0" frameWidth="704" frameHeight="527"/>
+	<SubTexture name="Le wake up0027" x="1400" y="3194" width="700" height="527" frameX="-2" frameY="0" frameWidth="704" frameHeight="527"/>
+	<SubTexture name="Le wake up0028" x="1400" y="3194" width="700" height="527" frameX="-2" frameY="0" frameWidth="704" frameHeight="527"/>
+	<SubTexture name="Le wake up0029" x="1400" y="3194" width="700" height="527" frameX="-2" frameY="0" frameWidth="704" frameHeight="527"/>
+</TextureAtlas>

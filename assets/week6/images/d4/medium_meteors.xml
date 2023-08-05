@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="medium meteors.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="MEDIUM0000" x="0" y="0" width="311" height="160"/>
+	<SubTexture name="MEDIUM0001" x="0" y="0" width="311" height="160"/>
+	<SubTexture name="MEDIUM0002" x="0" y="160" width="311" height="160"/>
+	<SubTexture name="MEDIUM0003" x="0" y="160" width="311" height="160"/>
+	<SubTexture name="MEDIUM0004" x="0" y="320" width="311" height="160"/>
+	<SubTexture name="MEDIUM0005" x="0" y="320" width="311" height="160"/>
+</TextureAtlas>

@@ -1,0 +1,79 @@
+{
+	"song": {
+		"speed": 2.6,
+		"stage": "schoold4",
+		"player1": "pico-pixel-3",
+		"player2": "spirit",
+		"player3": null,
+		"events": [
+			[
+				14769.2307692308,
+				[
+					[
+						"Change Character",
+						"1",
+						"spirit-pissed"
+					],
+					[
+						"Change Character",
+						"0",
+						"pico-pixel-4"
+					]
+				]
+			],
+			[
+				103384.615384615,
+				[
+					[
+						"Change Character",
+						"1",
+						"deadpai"
+					],
+					[
+						"Change Character",
+						"0",
+						"bfbutno"
+					]
+				]
+			],
+			[
+				132923.076923077,
+				[
+					[
+						"Change Character",
+						"0",
+						"pico-pixel-4"
+					],
+					[
+						"Change Character",
+						"1",
+						"spirit-pissed"
+					],
+					[
+						"Change Character",
+						"2",
+						"pico-pixel-4alt"
+					]
+				]
+			],
+			[
+				192000,
+				[
+					[
+						"Play Animation",
+						"pranked",
+						"GF"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "pico-pixel-4alt",
+		"bpm": 130,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "oblivion"
+	}
+}

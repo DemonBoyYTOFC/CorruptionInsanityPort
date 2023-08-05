@@ -1,0 +1,188 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "BF idle dance",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				-71
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down0"
+		},
+		{
+			"offsets": [
+				165,
+				24
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left0"
+		},
+		{
+			"offsets": [
+				-18,
+				33
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right0"
+		},
+		{
+			"offsets": [
+				94,
+				87
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up0"
+		},
+		{
+			"offsets": [
+				10,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "now really",
+			"indices": [],
+			"name": "Now really0"
+		},
+		{
+			"offsets": [
+				210,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "UHOH",
+			"indices": [],
+			"name": "UHOH0"
+		},
+		{
+			"offsets": [
+				327,
+				19
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "Left miss0"
+		},
+		{
+			"offsets": [
+				98,
+				-79
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "Down miss0"
+		},
+		{
+			"offsets": [
+				84,
+				87
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "Up miss0"
+		},
+		{
+			"offsets": [
+				36,
+				22
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "Right miss0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				77,
+				30
+			],
+			"anim": "angry",
+			"fps": 24,
+			"name": "Grrr angy angy0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				100,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "wakeywakey2",
+			"indices": [],
+			"name": "WAKEYWAKEY20"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				100,
+				-30
+			],
+			"anim": "wakeywakeyalt",
+			"fps": 24,
+			"name": "WAKEYWAKEYalt",
+			"indices": []
+		},
+		{
+			"offsets": [
+				40,
+				-40
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "wakeywakey",
+			"loop": false,
+			"name": "WAKEYWAKEY0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "GOOB/MADBOYFRIEND",
+	"position": [
+		180,
+		320
+	],
+	"healthicon": "bf-goob",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

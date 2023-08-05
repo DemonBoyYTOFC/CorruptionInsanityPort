@@ -1,0 +1,855 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="MADBOYFRIEND (4).png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BF idle dance0000" x="0" y="0" width="290" height="414" frameX="0" frameY="-20" frameWidth="290" frameHeight="435"/>
+	<SubTexture name="BF idle dance0001" x="290" y="0" width="289" height="414" frameX="0" frameY="-20" frameWidth="290" frameHeight="435"/>
+	<SubTexture name="BF idle dance0002" x="579" y="0" width="288" height="415" frameX="-1" frameY="-19" frameWidth="290" frameHeight="435"/>
+	<SubTexture name="BF idle dance0003" x="867" y="0" width="288" height="415" frameX="-1" frameY="-19" frameWidth="290" frameHeight="435"/>
+	<SubTexture name="BF idle dance0004" x="1155" y="0" width="286" height="421" frameX="-3" frameY="-14" frameWidth="290" frameHeight="435"/>
+	<SubTexture name="BF idle dance0005" x="1441" y="0" width="286" height="421" frameX="-3" frameY="-14" frameWidth="290" frameHeight="435"/>
+	<SubTexture name="BF idle dance0006" x="1727" y="0" width="284" height="433" frameX="-6" frameY="-2" frameWidth="290" frameHeight="435"/>
+	<SubTexture name="BF idle dance0007" x="2011" y="0" width="284" height="433" frameX="-6" frameY="-2" frameWidth="290" frameHeight="435"/>
+	<SubTexture name="BF idle dance0008" x="2295" y="0" width="284" height="435" frameX="-6" frameY="0" frameWidth="290" frameHeight="435"/>
+	<SubTexture name="BF idle dance0009" x="2579" y="0" width="284" height="434" frameX="-6" frameY="-1" frameWidth="290" frameHeight="435"/>
+	<SubTexture name="BF idle dance0010" x="2863" y="0" width="284" height="434" frameX="-6" frameY="-1" frameWidth="290" frameHeight="435"/>
+	<SubTexture name="BF idle dance0011" x="2295" y="0" width="284" height="435" frameX="-6" frameY="0" frameWidth="290" frameHeight="435"/>
+	<SubTexture name="BF idle dance0012" x="2579" y="0" width="284" height="434" frameX="-6" frameY="-1" frameWidth="290" frameHeight="435"/>
+	<SubTexture name="BF idle dance0013" x="2863" y="0" width="284" height="434" frameX="-6" frameY="-1" frameWidth="290" frameHeight="435"/>
+	<SubTexture name="Down0000" x="3147" y="0" width="284" height="351" frameX="-8" frameY="-8" frameWidth="293" frameHeight="362"/>
+	<SubTexture name="Down0001" x="3147" y="0" width="284" height="351" frameX="-8" frameY="-8" frameWidth="293" frameHeight="362"/>
+	<SubTexture name="Down0002" x="3431" y="0" width="288" height="361" frameX="-5" frameY="0" frameWidth="293" frameHeight="362"/>
+	<SubTexture name="Down0003" x="3431" y="0" width="288" height="361" frameX="-5" frameY="0" frameWidth="293" frameHeight="362"/>
+	<SubTexture name="Down0004" x="3719" y="0" width="288" height="361" frameX="-5" frameY="0" frameWidth="293" frameHeight="362"/>
+	<SubTexture name="Down0005" x="3719" y="0" width="288" height="361" frameX="-5" frameY="0" frameWidth="293" frameHeight="362"/>
+	<SubTexture name="Down0006" x="4007" y="0" width="288" height="361" frameX="-5" frameY="0" frameWidth="293" frameHeight="362"/>
+	<SubTexture name="Down0007" x="4007" y="0" width="288" height="361" frameX="-5" frameY="0" frameWidth="293" frameHeight="362"/>
+	<SubTexture name="Down0008" x="4295" y="0" width="293" height="360" frameX="0" frameY="-1" frameWidth="293" frameHeight="362"/>
+	<SubTexture name="Down0009" x="4588" y="0" width="290" height="360" frameX="-3" frameY="-1" frameWidth="293" frameHeight="362"/>
+	<SubTexture name="Down0010" x="4878" y="0" width="287" height="361" frameX="-6" frameY="-1" frameWidth="293" frameHeight="362"/>
+	<SubTexture name="Down0011" x="4878" y="0" width="287" height="361" frameX="-6" frameY="-1" frameWidth="293" frameHeight="362"/>
+	<SubTexture name="Down0012" x="5165" y="0" width="288" height="361" frameX="-5" frameY="0" frameWidth="293" frameHeight="362"/>
+	<SubTexture name="Down0013" x="5165" y="0" width="288" height="361" frameX="-5" frameY="0" frameWidth="293" frameHeight="362"/>
+	<SubTexture name="Down0014" x="5453" y="0" width="288" height="360" frameX="-5" frameY="-1" frameWidth="293" frameHeight="362"/>
+	<SubTexture name="Down miss0000" x="5741" y="0" width="321" height="352" frameX="-84" frameY="0" frameWidth="459" frameHeight="364"/>
+	<SubTexture name="Down miss0001" x="6062" y="0" width="332" height="340" frameX="-77" frameY="-12" frameWidth="459" frameHeight="364"/>
+	<SubTexture name="Down miss0002" x="6394" y="0" width="343" height="328" frameX="-70" frameY="-25" frameWidth="459" frameHeight="364"/>
+	<SubTexture name="Down miss0003" x="6737" y="0" width="354" height="318" frameX="-63" frameY="-37" frameWidth="459" frameHeight="364"/>
+	<SubTexture name="Down miss0004" x="7091" y="0" width="365" height="307" frameX="-57" frameY="-49" frameWidth="459" frameHeight="364"/>
+	<SubTexture name="Down miss0005" x="7456" y="0" width="377" height="296" frameX="-49" frameY="-61" frameWidth="459" frameHeight="364"/>
+	<SubTexture name="Down miss0006" x="0" y="435" width="388" height="285" frameX="-43" frameY="-73" frameWidth="459" frameHeight="364"/>
+	<SubTexture name="Down miss0007" x="388" y="435" width="400" height="274" frameX="-35" frameY="-85" frameWidth="459" frameHeight="364"/>
+	<SubTexture name="Down miss0008" x="788" y="435" width="412" height="269" frameX="-28" frameY="-91" frameWidth="459" frameHeight="364"/>
+	<SubTexture name="Down miss0009" x="1200" y="435" width="424" height="271" frameX="-21" frameY="-90" frameWidth="459" frameHeight="364"/>
+	<SubTexture name="Down miss0010" x="1624" y="435" width="436" height="274" frameX="-14" frameY="-88" frameWidth="459" frameHeight="364"/>
+	<SubTexture name="Down miss0011" x="2060" y="435" width="447" height="278" frameX="-7" frameY="-85" frameWidth="459" frameHeight="364"/>
+	<SubTexture name="Down miss0012" x="2507" y="435" width="459" height="282" frameX="0" frameY="-82" frameWidth="459" frameHeight="364"/>
+	<SubTexture name="Down miss0013" x="2507" y="435" width="459" height="282" frameX="0" frameY="-82" frameWidth="459" frameHeight="364"/>
+	<SubTexture name="Down miss0014" x="2507" y="435" width="459" height="282" frameX="0" frameY="-82" frameWidth="459" frameHeight="364"/>
+	<SubTexture name="Grrr angy angy0000" x="2966" y="435" width="323" height="450" frameX="-60" frameY="-9" frameWidth="383" frameHeight="459"/>
+	<SubTexture name="Grrr angy angy0001" x="3289" y="435" width="273" height="373" frameX="-79" frameY="-86" frameWidth="383" frameHeight="459"/>
+	<SubTexture name="Grrr angy angy0002" x="3562" y="435" width="272" height="391" frameX="-79" frameY="-68" frameWidth="383" frameHeight="459"/>
+	<SubTexture name="Grrr angy angy0003" x="3562" y="435" width="272" height="391" frameX="-79" frameY="-68" frameWidth="383" frameHeight="459"/>
+	<SubTexture name="Grrr angy angy0004" x="3562" y="435" width="272" height="391" frameX="-79" frameY="-68" frameWidth="383" frameHeight="459"/>
+	<SubTexture name="Grrr angy angy0005" x="3562" y="435" width="272" height="391" frameX="-79" frameY="-68" frameWidth="383" frameHeight="459"/>
+	<SubTexture name="Grrr angy angy0006" x="3562" y="435" width="272" height="391" frameX="-79" frameY="-68" frameWidth="383" frameHeight="459"/>
+	<SubTexture name="Grrr angy angy0007" x="3562" y="435" width="272" height="391" frameX="-79" frameY="-68" frameWidth="383" frameHeight="459"/>
+	<SubTexture name="Grrr angy angy0008" x="3562" y="435" width="272" height="391" frameX="-79" frameY="-68" frameWidth="383" frameHeight="459"/>
+	<SubTexture name="Grrr angy angy0009" x="3562" y="435" width="272" height="391" frameX="-79" frameY="-68" frameWidth="383" frameHeight="459"/>
+	<SubTexture name="Grrr angy angy0010" x="3834" y="435" width="360" height="374" frameX="-2" frameY="-84" frameWidth="383" frameHeight="459"/>
+	<SubTexture name="Grrr angy angy0011" x="4194" y="435" width="362" height="375" frameX="0" frameY="-82" frameWidth="383" frameHeight="459"/>
+	<SubTexture name="Grrr angy angy0012" x="4556" y="435" width="362" height="375" frameX="0" frameY="-82" frameWidth="383" frameHeight="459"/>
+	<SubTexture name="Grrr angy angy0013" x="4918" y="435" width="362" height="375" frameX="0" frameY="-82" frameWidth="383" frameHeight="459"/>
+	<SubTexture name="Grrr angy angy0014" x="4918" y="435" width="362" height="375" frameX="0" frameY="-82" frameWidth="383" frameHeight="459"/>
+	<SubTexture name="Grrr angy angy0015" x="4918" y="435" width="362" height="375" frameX="0" frameY="-82" frameWidth="383" frameHeight="459"/>
+	<SubTexture name="Grrr angy angy0016" x="5280" y="435" width="362" height="375" frameX="0" frameY="-82" frameWidth="383" frameHeight="459"/>
+	<SubTexture name="Grrr angy angy0017" x="5642" y="435" width="362" height="375" frameX="0" frameY="-82" frameWidth="383" frameHeight="459"/>
+	<SubTexture name="Grrr angy angy0018" x="6004" y="435" width="362" height="375" frameX="0" frameY="-82" frameWidth="383" frameHeight="459"/>
+	<SubTexture name="Grrr angy angy0019" x="6366" y="435" width="362" height="375" frameX="0" frameY="-82" frameWidth="383" frameHeight="459"/>
+	<SubTexture name="Grrr angy angy0020" x="6004" y="435" width="362" height="375" frameX="0" frameY="-82" frameWidth="383" frameHeight="459"/>
+	<SubTexture name="Grrr angy angy0021" x="6728" y="435" width="362" height="375" frameX="0" frameY="-82" frameWidth="383" frameHeight="459"/>
+	<SubTexture name="Grrr angy angy0022" x="7090" y="435" width="362" height="375" frameX="0" frameY="-82" frameWidth="383" frameHeight="459"/>
+	<SubTexture name="Grrr angy angy0023" x="7452" y="435" width="362" height="375" frameX="0" frameY="-82" frameWidth="383" frameHeight="459"/>
+	<SubTexture name="Grrr angy angy0024" x="7452" y="435" width="362" height="375" frameX="0" frameY="-82" frameWidth="383" frameHeight="459"/>
+	<SubTexture name="Grrr angy angy0025" x="7452" y="435" width="362" height="375" frameX="0" frameY="-82" frameWidth="383" frameHeight="459"/>
+	<SubTexture name="Grrr angy angy0026" x="7452" y="435" width="362" height="375" frameX="0" frameY="-82" frameWidth="383" frameHeight="459"/>
+	<SubTexture name="Grrr angy angy0027" x="7814" y="435" width="362" height="375" frameX="0" frameY="-82" frameWidth="383" frameHeight="459"/>
+	<SubTexture name="Grrr angy angy0028" x="7814" y="435" width="362" height="375" frameX="0" frameY="-82" frameWidth="383" frameHeight="459"/>
+	<SubTexture name="Grrr angy angy0029" x="0" y="885" width="353" height="386" frameX="-4" frameY="-72" frameWidth="383" frameHeight="459"/>
+	<SubTexture name="Grrr angy angy0030" x="353" y="885" width="264" height="455" frameX="-82" frameY="0" frameWidth="383" frameHeight="459"/>
+	<SubTexture name="Grrr angy angy0031" x="617" y="885" width="264" height="435" frameX="-82" frameY="-20" frameWidth="383" frameHeight="459"/>
+	<SubTexture name="Grrr angy angy0032" x="617" y="885" width="264" height="435" frameX="-82" frameY="-20" frameWidth="383" frameHeight="459"/>
+	<SubTexture name="Grrr angy angy0033" x="617" y="885" width="264" height="435" frameX="-82" frameY="-20" frameWidth="383" frameHeight="459"/>
+	<SubTexture name="Grrr angy angy0034" x="881" y="885" width="264" height="435" frameX="-82" frameY="-20" frameWidth="383" frameHeight="459"/>
+	<SubTexture name="Grrr angy angy0035" x="881" y="885" width="264" height="435" frameX="-82" frameY="-20" frameWidth="383" frameHeight="459"/>
+	<SubTexture name="Grrr angy angy0036" x="1145" y="885" width="264" height="435" frameX="-82" frameY="-20" frameWidth="383" frameHeight="459"/>
+	<SubTexture name="Grrr angy angy0037" x="1145" y="885" width="264" height="435" frameX="-82" frameY="-20" frameWidth="383" frameHeight="459"/>
+	<SubTexture name="Grrr angy angy0038" x="1145" y="885" width="264" height="435" frameX="-82" frameY="-20" frameWidth="383" frameHeight="459"/>
+	<SubTexture name="Grrr angy angy0039" x="1409" y="885" width="264" height="435" frameX="-82" frameY="-20" frameWidth="383" frameHeight="459"/>
+	<SubTexture name="Grrr angy angy0040" x="1409" y="885" width="264" height="435" frameX="-82" frameY="-20" frameWidth="383" frameHeight="459"/>
+	<SubTexture name="Grrr angy angy0041" x="1673" y="885" width="264" height="435" frameX="-82" frameY="-20" frameWidth="383" frameHeight="459"/>
+	<SubTexture name="Grrr angy angy0042" x="1937" y="885" width="264" height="435" frameX="-82" frameY="-20" frameWidth="383" frameHeight="459"/>
+	<SubTexture name="Grrr angy angy0043" x="1937" y="885" width="264" height="435" frameX="-82" frameY="-20" frameWidth="383" frameHeight="459"/>
+	<SubTexture name="Grrr angy angy0044" x="1937" y="885" width="264" height="435" frameX="-82" frameY="-20" frameWidth="383" frameHeight="459"/>
+	<SubTexture name="Grrr angy angy0045" x="1937" y="885" width="264" height="435" frameX="-82" frameY="-20" frameWidth="383" frameHeight="459"/>
+	<SubTexture name="Grrr angy angy0046" x="1937" y="885" width="264" height="435" frameX="-82" frameY="-20" frameWidth="383" frameHeight="459"/>
+	<SubTexture name="Grrr angy angy0047" x="1937" y="885" width="264" height="435" frameX="-82" frameY="-20" frameWidth="383" frameHeight="459"/>
+	<SubTexture name="Grrr angy angy0048" x="1937" y="885" width="264" height="435" frameX="-82" frameY="-20" frameWidth="383" frameHeight="459"/>
+	<SubTexture name="Grrr angy angy0049" x="1937" y="885" width="264" height="435" frameX="-82" frameY="-20" frameWidth="383" frameHeight="459"/>
+	<SubTexture name="Grrr angy angy0050" x="1937" y="885" width="264" height="435" frameX="-82" frameY="-20" frameWidth="383" frameHeight="459"/>
+	<SubTexture name="Left0000" x="2201" y="885" width="430" height="449" frameX="0" frameY="0" frameWidth="438" frameHeight="450"/>
+	<SubTexture name="Left0001" x="2201" y="885" width="430" height="449" frameX="0" frameY="0" frameWidth="438" frameHeight="450"/>
+	<SubTexture name="Left0002" x="2631" y="885" width="434" height="444" frameX="-4" frameY="-5" frameWidth="438" frameHeight="450"/>
+	<SubTexture name="Left0003" x="2631" y="885" width="434" height="444" frameX="-4" frameY="-5" frameWidth="438" frameHeight="450"/>
+	<SubTexture name="Left0004" x="3065" y="885" width="434" height="444" frameX="-4" frameY="-5" frameWidth="438" frameHeight="450"/>
+	<SubTexture name="Left0005" x="3065" y="885" width="434" height="444" frameX="-4" frameY="-5" frameWidth="438" frameHeight="450"/>
+	<SubTexture name="Left0006" x="3499" y="885" width="434" height="445" frameX="-4" frameY="-5" frameWidth="438" frameHeight="450"/>
+	<SubTexture name="Left0007" x="3499" y="885" width="434" height="445" frameX="-4" frameY="-5" frameWidth="438" frameHeight="450"/>
+	<SubTexture name="Left0008" x="3933" y="885" width="434" height="445" frameX="-4" frameY="-5" frameWidth="438" frameHeight="450"/>
+	<SubTexture name="Left0009" x="3933" y="885" width="434" height="445" frameX="-4" frameY="-5" frameWidth="438" frameHeight="450"/>
+	<SubTexture name="Left0010" x="3933" y="885" width="434" height="445" frameX="-4" frameY="-5" frameWidth="438" frameHeight="450"/>
+	<SubTexture name="Left0011" x="3933" y="885" width="434" height="445" frameX="-4" frameY="-5" frameWidth="438" frameHeight="450"/>
+	<SubTexture name="Left0012" x="3499" y="885" width="434" height="445" frameX="-4" frameY="-5" frameWidth="438" frameHeight="450"/>
+	<SubTexture name="Left0013" x="3499" y="885" width="434" height="445" frameX="-4" frameY="-5" frameWidth="438" frameHeight="450"/>
+	<SubTexture name="Left0014" x="3933" y="885" width="434" height="445" frameX="-4" frameY="-5" frameWidth="438" frameHeight="450"/>
+	<SubTexture name="Left miss0000" x="4367" y="885" width="385" height="453" frameX="-172" frameY="0" frameWidth="650" frameHeight="473"/>
+	<SubTexture name="Left miss0001" x="4367" y="885" width="385" height="453" frameX="-172" frameY="0" frameWidth="650" frameHeight="473"/>
+	<SubTexture name="Left miss0002" x="4752" y="885" width="618" height="285" frameX="0" frameY="-164" frameWidth="650" frameHeight="473"/>
+	<SubTexture name="Left miss0003" x="4752" y="885" width="618" height="285" frameX="0" frameY="-164" frameWidth="650" frameHeight="473"/>
+	<SubTexture name="Left miss0004" x="5370" y="885" width="467" height="188" frameX="-183" frameY="-285" frameWidth="650" frameHeight="473"/>
+	<SubTexture name="Left miss0005" x="5837" y="885" width="467" height="269" frameX="-183" frameY="-203" frameWidth="650" frameHeight="473"/>
+	<SubTexture name="Left miss0006" x="6304" y="885" width="467" height="248" frameX="-183" frameY="-224" frameWidth="650" frameHeight="473"/>
+	<SubTexture name="Left miss0007" x="6304" y="885" width="467" height="248" frameX="-183" frameY="-224" frameWidth="650" frameHeight="473"/>
+	<SubTexture name="Left miss0008" x="6304" y="885" width="467" height="248" frameX="-183" frameY="-224" frameWidth="650" frameHeight="473"/>
+	<SubTexture name="Left miss0009" x="6304" y="885" width="467" height="248" frameX="-183" frameY="-224" frameWidth="650" frameHeight="473"/>
+	<SubTexture name="Left miss0010" x="6304" y="885" width="467" height="248" frameX="-183" frameY="-224" frameWidth="650" frameHeight="473"/>
+	<SubTexture name="Left miss0011" x="6304" y="885" width="467" height="248" frameX="-183" frameY="-224" frameWidth="650" frameHeight="473"/>
+	<SubTexture name="Left miss0012" x="6304" y="885" width="467" height="248" frameX="-183" frameY="-224" frameWidth="650" frameHeight="473"/>
+	<SubTexture name="Left miss0013" x="6304" y="885" width="467" height="248" frameX="-183" frameY="-224" frameWidth="650" frameHeight="473"/>
+	<SubTexture name="Left miss0014" x="6304" y="885" width="467" height="248" frameX="-183" frameY="-224" frameWidth="650" frameHeight="473"/>
+	<SubTexture name="Now really0000" x="6771" y="885" width="271" height="381" frameX="-21" frameY="-24" frameWidth="303" frameHeight="406"/>
+	<SubTexture name="Now really0001" x="7042" y="885" width="271" height="401" frameX="-21" frameY="-4" frameWidth="303" frameHeight="406"/>
+	<SubTexture name="Now really0002" x="7313" y="885" width="271" height="381" frameX="-21" frameY="-24" frameWidth="303" frameHeight="406"/>
+	<SubTexture name="Now really0003" x="7313" y="885" width="271" height="381" frameX="-21" frameY="-24" frameWidth="303" frameHeight="406"/>
+	<SubTexture name="Now really0004" x="7313" y="885" width="271" height="381" frameX="-21" frameY="-24" frameWidth="303" frameHeight="406"/>
+	<SubTexture name="Now really0005" x="7313" y="885" width="271" height="381" frameX="-21" frameY="-24" frameWidth="303" frameHeight="406"/>
+	<SubTexture name="Now really0006" x="7313" y="885" width="271" height="381" frameX="-21" frameY="-24" frameWidth="303" frameHeight="406"/>
+	<SubTexture name="Now really0007" x="7313" y="885" width="271" height="381" frameX="-21" frameY="-24" frameWidth="303" frameHeight="406"/>
+	<SubTexture name="Now really0008" x="7584" y="885" width="285" height="385" frameX="-5" frameY="-19" frameWidth="303" frameHeight="406"/>
+	<SubTexture name="Now really0009" x="7869" y="885" width="290" height="387" frameX="0" frameY="-18" frameWidth="303" frameHeight="406"/>
+	<SubTexture name="Now really0010" x="7869" y="885" width="290" height="387" frameX="0" frameY="-18" frameWidth="303" frameHeight="406"/>
+	<SubTexture name="Now really0011" x="7869" y="885" width="290" height="387" frameX="0" frameY="-18" frameWidth="303" frameHeight="406"/>
+	<SubTexture name="Now really0012" x="0" y="1340" width="290" height="387" frameX="0" frameY="-18" frameWidth="303" frameHeight="406"/>
+	<SubTexture name="Now really0013" x="290" y="1340" width="276" height="405" frameX="-21" frameY="-1" frameWidth="303" frameHeight="406"/>
+	<SubTexture name="Now really0014" x="566" y="1340" width="282" height="405" frameX="-21" frameY="0" frameWidth="303" frameHeight="406"/>
+	<SubTexture name="Now really0015" x="848" y="1340" width="282" height="405" frameX="-21" frameY="0" frameWidth="303" frameHeight="406"/>
+	<SubTexture name="Now really0016" x="848" y="1340" width="282" height="405" frameX="-21" frameY="0" frameWidth="303" frameHeight="406"/>
+	<SubTexture name="Now really0017" x="848" y="1340" width="282" height="405" frameX="-21" frameY="0" frameWidth="303" frameHeight="406"/>
+	<SubTexture name="Now really0018" x="848" y="1340" width="282" height="405" frameX="-21" frameY="0" frameWidth="303" frameHeight="406"/>
+	<SubTexture name="Now really0019" x="848" y="1340" width="282" height="405" frameX="-21" frameY="0" frameWidth="303" frameHeight="406"/>
+	<SubTexture name="Now really0020" x="848" y="1340" width="282" height="405" frameX="-21" frameY="0" frameWidth="303" frameHeight="406"/>
+	<SubTexture name="Now really0021" x="848" y="1340" width="282" height="405" frameX="-21" frameY="0" frameWidth="303" frameHeight="406"/>
+	<SubTexture name="Now really0022" x="848" y="1340" width="282" height="405" frameX="-21" frameY="0" frameWidth="303" frameHeight="406"/>
+	<SubTexture name="Now really0023" x="848" y="1340" width="282" height="405" frameX="-21" frameY="0" frameWidth="303" frameHeight="406"/>
+	<SubTexture name="Now really0024" x="848" y="1340" width="282" height="405" frameX="-21" frameY="0" frameWidth="303" frameHeight="406"/>
+	<SubTexture name="Now really0025" x="848" y="1340" width="282" height="405" frameX="-21" frameY="0" frameWidth="303" frameHeight="406"/>
+	<SubTexture name="Right0000" x="1130" y="1340" width="316" height="455" frameX="-5" frameY="0" frameWidth="349" frameHeight="456"/>
+	<SubTexture name="Right0001" x="1130" y="1340" width="316" height="455" frameX="-5" frameY="0" frameWidth="349" frameHeight="456"/>
+	<SubTexture name="Right0002" x="1446" y="1340" width="334" height="455" frameX="0" frameY="-1" frameWidth="349" frameHeight="456"/>
+	<SubTexture name="Right0003" x="1446" y="1340" width="334" height="455" frameX="0" frameY="-1" frameWidth="349" frameHeight="456"/>
+	<SubTexture name="Right0004" x="1780" y="1340" width="349" height="455" frameX="0" frameY="-1" frameWidth="349" frameHeight="456"/>
+	<SubTexture name="Right0005" x="1780" y="1340" width="349" height="455" frameX="0" frameY="-1" frameWidth="349" frameHeight="456"/>
+	<SubTexture name="Right0006" x="2129" y="1340" width="290" height="455" frameX="0" frameY="-1" frameWidth="349" frameHeight="456"/>
+	<SubTexture name="Right0007" x="2129" y="1340" width="290" height="455" frameX="0" frameY="-1" frameWidth="349" frameHeight="456"/>
+	<SubTexture name="Right0008" x="2419" y="1340" width="290" height="455" frameX="0" frameY="-1" frameWidth="349" frameHeight="456"/>
+	<SubTexture name="Right0009" x="2419" y="1340" width="290" height="455" frameX="0" frameY="-1" frameWidth="349" frameHeight="456"/>
+	<SubTexture name="Right0010" x="2129" y="1340" width="290" height="455" frameX="0" frameY="-1" frameWidth="349" frameHeight="456"/>
+	<SubTexture name="Right0011" x="2129" y="1340" width="290" height="455" frameX="0" frameY="-1" frameWidth="349" frameHeight="456"/>
+	<SubTexture name="Right0012" x="2419" y="1340" width="290" height="455" frameX="0" frameY="-1" frameWidth="349" frameHeight="456"/>
+	<SubTexture name="Right0013" x="2419" y="1340" width="290" height="455" frameX="0" frameY="-1" frameWidth="349" frameHeight="456"/>
+	<SubTexture name="Right0014" x="2129" y="1340" width="290" height="455" frameX="0" frameY="-1" frameWidth="349" frameHeight="456"/>
+	<SubTexture name="Right miss0000" x="2709" y="1340" width="296" height="451" frameX="-49" frameY="-6" frameWidth="560" frameHeight="476"/>
+	<SubTexture name="Right miss0001" x="2709" y="1340" width="296" height="451" frameX="-49" frameY="-6" frameWidth="560" frameHeight="476"/>
+	<SubTexture name="Right miss0002" x="2709" y="1340" width="296" height="451" frameX="-49" frameY="-6" frameWidth="560" frameHeight="476"/>
+	<SubTexture name="Right miss0003" x="2709" y="1340" width="296" height="451" frameX="-49" frameY="-6" frameWidth="560" frameHeight="476"/>
+	<SubTexture name="Right miss0004" x="2709" y="1340" width="296" height="451" frameX="-49" frameY="-6" frameWidth="560" frameHeight="476"/>
+	<SubTexture name="Right miss0005" x="2709" y="1340" width="296" height="451" frameX="-49" frameY="-6" frameWidth="560" frameHeight="476"/>
+	<SubTexture name="Right miss0006" x="2709" y="1340" width="296" height="451" frameX="-49" frameY="-6" frameWidth="560" frameHeight="476"/>
+	<SubTexture name="Right miss0007" x="3005" y="1340" width="368" height="468" frameX="-23" frameY="0" frameWidth="560" frameHeight="476"/>
+	<SubTexture name="Right miss0008" x="3373" y="1340" width="560" height="307" frameX="0" frameY="-169" frameWidth="560" frameHeight="476"/>
+	<SubTexture name="Right miss0009" x="3933" y="1340" width="436" height="154" frameX="-89" frameY="-317" frameWidth="560" frameHeight="476"/>
+	<SubTexture name="Right miss0010" x="4369" y="1340" width="436" height="219" frameX="-89" frameY="-252" frameWidth="560" frameHeight="476"/>
+	<SubTexture name="Right miss0011" x="4805" y="1340" width="436" height="200" frameX="-89" frameY="-271" frameWidth="560" frameHeight="476"/>
+	<SubTexture name="Right miss0012" x="4805" y="1340" width="436" height="200" frameX="-89" frameY="-271" frameWidth="560" frameHeight="476"/>
+	<SubTexture name="Right miss0013" x="4805" y="1340" width="436" height="200" frameX="-89" frameY="-271" frameWidth="560" frameHeight="476"/>
+	<SubTexture name="Right miss0014" x="4805" y="1340" width="436" height="200" frameX="-89" frameY="-271" frameWidth="560" frameHeight="476"/>
+	<SubTexture name="UHOH0000" x="5241" y="1340" width="279" height="386"/>
+	<SubTexture name="UHOH0001" x="5241" y="1340" width="279" height="386"/>
+	<SubTexture name="UHOH0002" x="5241" y="1340" width="279" height="386"/>
+	<SubTexture name="UHOH0003" x="5241" y="1340" width="279" height="386"/>
+	<SubTexture name="UHOH0004" x="5241" y="1340" width="279" height="386"/>
+	<SubTexture name="UHOH0005" x="5241" y="1340" width="279" height="386"/>
+	<SubTexture name="UHOH0006" x="5241" y="1340" width="279" height="386"/>
+	<SubTexture name="UHOH0007" x="5241" y="1340" width="279" height="386"/>
+	<SubTexture name="UHOH0008" x="5241" y="1340" width="279" height="386"/>
+	<SubTexture name="UHOH0009" x="5241" y="1340" width="279" height="386"/>
+	<SubTexture name="UHOH0010" x="5241" y="1340" width="279" height="386"/>
+	<SubTexture name="UHOH0011" x="5241" y="1340" width="279" height="386"/>
+	<SubTexture name="UHOH0012" x="5241" y="1340" width="279" height="386"/>
+	<SubTexture name="UHOH0013" x="5241" y="1340" width="279" height="386"/>
+	<SubTexture name="UHOH0014" x="5241" y="1340" width="279" height="386"/>
+	<SubTexture name="UHOH0015" x="5241" y="1340" width="279" height="386"/>
+	<SubTexture name="UHOH0016" x="5241" y="1340" width="279" height="386"/>
+	<SubTexture name="UHOH0017" x="5241" y="1340" width="279" height="386"/>
+	<SubTexture name="UHOH0018" x="5241" y="1340" width="279" height="386"/>
+	<SubTexture name="UHOH0019" x="5241" y="1340" width="279" height="386"/>
+	<SubTexture name="UHOH0020" x="5241" y="1340" width="279" height="386"/>
+	<SubTexture name="UHOH0021" x="5241" y="1340" width="279" height="386"/>
+	<SubTexture name="UHOH0022" x="5241" y="1340" width="279" height="386"/>
+	<SubTexture name="UHOH0023" x="5241" y="1340" width="279" height="386"/>
+	<SubTexture name="UHOH0024" x="5241" y="1340" width="279" height="386"/>
+	<SubTexture name="UHOH0025" x="5241" y="1340" width="279" height="386"/>
+	<SubTexture name="UHOH0026" x="5241" y="1340" width="279" height="386"/>
+	<SubTexture name="UHOH0027" x="5241" y="1340" width="279" height="386"/>
+	<SubTexture name="UHOH0028" x="5241" y="1340" width="279" height="386"/>
+	<SubTexture name="UHOH0029" x="5241" y="1340" width="279" height="386"/>
+	<SubTexture name="UHOH0030" x="5241" y="1340" width="279" height="386"/>
+	<SubTexture name="UHOH0031" x="5241" y="1340" width="279" height="386"/>
+	<SubTexture name="UHOH0032" x="5241" y="1340" width="279" height="386"/>
+	<SubTexture name="UHOH0033" x="5241" y="1340" width="279" height="386"/>
+	<SubTexture name="UHOH0034" x="5520" y="1340" width="279" height="386"/>
+	<SubTexture name="UHOH0035" x="5520" y="1340" width="279" height="386"/>
+	<SubTexture name="UHOH0036" x="5520" y="1340" width="279" height="386"/>
+	<SubTexture name="UHOH0037" x="5520" y="1340" width="279" height="386"/>
+	<SubTexture name="UHOH0038" x="5520" y="1340" width="279" height="386"/>
+	<SubTexture name="UHOH0039" x="5799" y="1340" width="279" height="386"/>
+	<SubTexture name="UHOH0040" x="5799" y="1340" width="279" height="386"/>
+	<SubTexture name="UHOH0041" x="6078" y="1340" width="279" height="386"/>
+	<SubTexture name="UHOH0042" x="6078" y="1340" width="279" height="386"/>
+	<SubTexture name="UHOH0043" x="6078" y="1340" width="279" height="386"/>
+	<SubTexture name="UHOH0044" x="6078" y="1340" width="279" height="386"/>
+	<SubTexture name="UHOH0045" x="6078" y="1340" width="279" height="386"/>
+	<SubTexture name="UHOH0046" x="6078" y="1340" width="279" height="386"/>
+	<SubTexture name="UHOH0047" x="6078" y="1340" width="279" height="386"/>
+	<SubTexture name="UHOH0048" x="6078" y="1340" width="279" height="386"/>
+	<SubTexture name="UHOH0049" x="6078" y="1340" width="279" height="386"/>
+	<SubTexture name="UHOH0050" x="6078" y="1340" width="279" height="386"/>
+	<SubTexture name="UHOH0051" x="6078" y="1340" width="279" height="386"/>
+	<SubTexture name="UHOH0052" x="6078" y="1340" width="279" height="386"/>
+	<SubTexture name="UHOH0053" x="6078" y="1340" width="279" height="386"/>
+	<SubTexture name="UHOH0054" x="6357" y="1340" width="279" height="386"/>
+	<SubTexture name="UHOH0055" x="6357" y="1340" width="279" height="386"/>
+	<SubTexture name="UHOH0056" x="6357" y="1340" width="279" height="386"/>
+	<SubTexture name="UHOH0057" x="6357" y="1340" width="279" height="386"/>
+	<SubTexture name="UHOH0058" x="6357" y="1340" width="279" height="386"/>
+	<SubTexture name="UHOH0059" x="6636" y="1340" width="279" height="386"/>
+	<SubTexture name="UHOH0060" x="6636" y="1340" width="279" height="386"/>
+	<SubTexture name="UHOH0061" x="6636" y="1340" width="279" height="386"/>
+	<SubTexture name="UHOH0062" x="6636" y="1340" width="279" height="386"/>
+	<SubTexture name="UHOH0063" x="6636" y="1340" width="279" height="386"/>
+	<SubTexture name="UHOH0064" x="6636" y="1340" width="279" height="386"/>
+	<SubTexture name="UHOH0065" x="6636" y="1340" width="279" height="386"/>
+	<SubTexture name="UHOH0066" x="6636" y="1340" width="279" height="386"/>
+	<SubTexture name="UHOH0067" x="6636" y="1340" width="279" height="386"/>
+	<SubTexture name="UHOH0068" x="6636" y="1340" width="279" height="386"/>
+	<SubTexture name="UHOH0069" x="6636" y="1340" width="279" height="386"/>
+	<SubTexture name="UHOH0070" x="6636" y="1340" width="279" height="386"/>
+	<SubTexture name="UHOH0071" x="6636" y="1340" width="279" height="386"/>
+	<SubTexture name="UHOH0072" x="6636" y="1340" width="279" height="386"/>
+	<SubTexture name="UHOH0073" x="6636" y="1340" width="279" height="386"/>
+	<SubTexture name="UHOH 20000" x="6915" y="1340" width="271" height="408" frameX="-104" frameY="0" frameWidth="415" frameHeight="411"/>
+	<SubTexture name="UHOH 20001" x="7186" y="1340" width="270" height="411" frameX="-96" frameY="0" frameWidth="415" frameHeight="411"/>
+	<SubTexture name="UHOH 20002" x="7456" y="1340" width="271" height="411" frameX="-92" frameY="0" frameWidth="415" frameHeight="411"/>
+	<SubTexture name="UHOH 20003" x="7727" y="1340" width="271" height="409" frameX="-86" frameY="0" frameWidth="415" frameHeight="411"/>
+	<SubTexture name="UHOH 20004" x="0" y="1808" width="270" height="409" frameX="-63" frameY="0" frameWidth="415" frameHeight="411"/>
+	<SubTexture name="UHOH 20005" x="270" y="1808" width="270" height="408" frameX="-57" frameY="0" frameWidth="415" frameHeight="411"/>
+	<SubTexture name="UHOH 20006" x="540" y="1808" width="271" height="408" frameX="-46" frameY="0" frameWidth="415" frameHeight="411"/>
+	<SubTexture name="UHOH 20007" x="811" y="1808" width="271" height="408" frameX="-46" frameY="0" frameWidth="415" frameHeight="411"/>
+	<SubTexture name="UHOH 20008" x="811" y="1808" width="271" height="408" frameX="-46" frameY="0" frameWidth="415" frameHeight="411"/>
+	<SubTexture name="UHOH 20009" x="811" y="1808" width="271" height="408" frameX="-46" frameY="0" frameWidth="415" frameHeight="411"/>
+	<SubTexture name="UHOH 20010" x="1082" y="1808" width="271" height="408" frameX="-46" frameY="0" frameWidth="415" frameHeight="411"/>
+	<SubTexture name="UHOH 20011" x="1082" y="1808" width="271" height="408" frameX="-46" frameY="0" frameWidth="415" frameHeight="411"/>
+	<SubTexture name="UHOH 20012" x="1082" y="1808" width="271" height="408" frameX="-46" frameY="0" frameWidth="415" frameHeight="411"/>
+	<SubTexture name="UHOH 20013" x="1082" y="1808" width="271" height="408" frameX="-46" frameY="0" frameWidth="415" frameHeight="411"/>
+	<SubTexture name="UHOH 20014" x="1082" y="1808" width="271" height="408" frameX="-46" frameY="0" frameWidth="415" frameHeight="411"/>
+	<SubTexture name="UHOH 20015" x="1353" y="1808" width="271" height="408" frameX="-46" frameY="0" frameWidth="415" frameHeight="411"/>
+	<SubTexture name="UHOH 20016" x="1353" y="1808" width="271" height="408" frameX="-46" frameY="0" frameWidth="415" frameHeight="411"/>
+	<SubTexture name="UHOH 20017" x="1353" y="1808" width="271" height="408" frameX="-46" frameY="0" frameWidth="415" frameHeight="411"/>
+	<SubTexture name="UHOH 20018" x="1353" y="1808" width="271" height="408" frameX="-46" frameY="0" frameWidth="415" frameHeight="411"/>
+	<SubTexture name="UHOH 20019" x="1353" y="1808" width="271" height="408" frameX="-46" frameY="0" frameWidth="415" frameHeight="411"/>
+	<SubTexture name="UHOH 20020" x="1353" y="1808" width="271" height="408" frameX="-46" frameY="0" frameWidth="415" frameHeight="411"/>
+	<SubTexture name="UHOH 20021" x="1353" y="1808" width="271" height="408" frameX="-46" frameY="0" frameWidth="415" frameHeight="411"/>
+	<SubTexture name="UHOH 20022" x="1353" y="1808" width="271" height="408" frameX="-46" frameY="0" frameWidth="415" frameHeight="411"/>
+	<SubTexture name="UHOH 20023" x="1353" y="1808" width="271" height="408" frameX="-46" frameY="0" frameWidth="415" frameHeight="411"/>
+	<SubTexture name="UHOH 20024" x="1353" y="1808" width="271" height="408" frameX="-46" frameY="0" frameWidth="415" frameHeight="411"/>
+	<SubTexture name="UHOH 20025" x="1624" y="1808" width="415" height="407" frameX="0" frameY="-3" frameWidth="415" frameHeight="411"/>
+	<SubTexture name="UHOH 20026" x="1624" y="1808" width="415" height="407" frameX="0" frameY="-3" frameWidth="415" frameHeight="411"/>
+	<SubTexture name="UHOH 20027" x="1624" y="1808" width="415" height="407" frameX="0" frameY="-3" frameWidth="415" frameHeight="411"/>
+	<SubTexture name="UHOH 20028" x="2039" y="1808" width="415" height="407" frameX="0" frameY="-3" frameWidth="415" frameHeight="411"/>
+	<SubTexture name="UHOH 20029" x="2039" y="1808" width="415" height="407" frameX="0" frameY="-3" frameWidth="415" frameHeight="411"/>
+	<SubTexture name="UHOH 20030" x="2039" y="1808" width="415" height="407" frameX="0" frameY="-3" frameWidth="415" frameHeight="411"/>
+	<SubTexture name="UHOH 20031" x="2454" y="1808" width="415" height="407" frameX="0" frameY="-3" frameWidth="415" frameHeight="411"/>
+	<SubTexture name="UHOH 20032" x="2454" y="1808" width="415" height="407" frameX="0" frameY="-3" frameWidth="415" frameHeight="411"/>
+	<SubTexture name="UHOH 20033" x="2454" y="1808" width="415" height="407" frameX="0" frameY="-3" frameWidth="415" frameHeight="411"/>
+	<SubTexture name="UHOH 20034" x="2869" y="1808" width="415" height="407" frameX="0" frameY="-3" frameWidth="415" frameHeight="411"/>
+	<SubTexture name="UHOH 20035" x="2869" y="1808" width="415" height="407" frameX="0" frameY="-3" frameWidth="415" frameHeight="411"/>
+	<SubTexture name="UHOH 20036" x="3284" y="1808" width="415" height="407" frameX="0" frameY="-3" frameWidth="415" frameHeight="411"/>
+	<SubTexture name="UHOH 20037" x="3699" y="1808" width="415" height="407" frameX="0" frameY="-3" frameWidth="415" frameHeight="411"/>
+	<SubTexture name="UHOH 20038" x="3699" y="1808" width="415" height="407" frameX="0" frameY="-3" frameWidth="415" frameHeight="411"/>
+	<SubTexture name="UHOH 20039" x="3699" y="1808" width="415" height="407" frameX="0" frameY="-3" frameWidth="415" frameHeight="411"/>
+	<SubTexture name="UHOH 20040" x="3699" y="1808" width="415" height="407" frameX="0" frameY="-3" frameWidth="415" frameHeight="411"/>
+	<SubTexture name="UHOH 20041" x="3699" y="1808" width="415" height="407" frameX="0" frameY="-3" frameWidth="415" frameHeight="411"/>
+	<SubTexture name="UHOH 20042" x="3699" y="1808" width="415" height="407" frameX="0" frameY="-3" frameWidth="415" frameHeight="411"/>
+	<SubTexture name="UHOH 20043" x="3699" y="1808" width="415" height="407" frameX="0" frameY="-3" frameWidth="415" frameHeight="411"/>
+	<SubTexture name="UHOH 20044" x="3699" y="1808" width="415" height="407" frameX="0" frameY="-3" frameWidth="415" frameHeight="411"/>
+	<SubTexture name="UHOH 20045" x="3699" y="1808" width="415" height="407" frameX="0" frameY="-3" frameWidth="415" frameHeight="411"/>
+	<SubTexture name="UHOH 20046" x="3699" y="1808" width="415" height="407" frameX="0" frameY="-3" frameWidth="415" frameHeight="411"/>
+	<SubTexture name="UHOH 20047" x="3699" y="1808" width="415" height="407" frameX="0" frameY="-3" frameWidth="415" frameHeight="411"/>
+	<SubTexture name="UHOH 20048" x="3699" y="1808" width="415" height="407" frameX="0" frameY="-3" frameWidth="415" frameHeight="411"/>
+	<SubTexture name="UHOH 20049" x="3699" y="1808" width="415" height="407" frameX="0" frameY="-3" frameWidth="415" frameHeight="411"/>
+	<SubTexture name="UHOH 20050" x="3699" y="1808" width="415" height="407" frameX="0" frameY="-3" frameWidth="415" frameHeight="411"/>
+	<SubTexture name="UHOH 20051" x="3699" y="1808" width="415" height="407" frameX="0" frameY="-3" frameWidth="415" frameHeight="411"/>
+	<SubTexture name="UHOH 20052" x="3699" y="1808" width="415" height="407" frameX="0" frameY="-3" frameWidth="415" frameHeight="411"/>
+	<SubTexture name="UHOH 20053" x="3699" y="1808" width="415" height="407" frameX="0" frameY="-3" frameWidth="415" frameHeight="411"/>
+	<SubTexture name="UHOH 20054" x="3699" y="1808" width="415" height="407" frameX="0" frameY="-3" frameWidth="415" frameHeight="411"/>
+	<SubTexture name="UHOH 30000" x="4114" y="1808" width="372" height="404" frameX="-28" frameY="0" frameWidth="400" frameHeight="404"/>
+	<SubTexture name="UHOH 30001" x="4486" y="1808" width="400" height="404"/>
+	<SubTexture name="UHOH 30002" x="4886" y="1808" width="400" height="404"/>
+	<SubTexture name="UHOH 30003" x="5286" y="1808" width="397" height="404" frameX="-3" frameY="0" frameWidth="400" frameHeight="404"/>
+	<SubTexture name="UHOH 30004" x="5683" y="1808" width="358" height="404" frameX="-42" frameY="0" frameWidth="400" frameHeight="404"/>
+	<SubTexture name="UHOH 30005" x="6041" y="1808" width="358" height="404" frameX="-42" frameY="0" frameWidth="400" frameHeight="404"/>
+	<SubTexture name="UHOH 30006" x="6041" y="1808" width="358" height="404" frameX="-42" frameY="0" frameWidth="400" frameHeight="404"/>
+	<SubTexture name="UHOH 30007" x="6399" y="1808" width="372" height="404" frameX="-28" frameY="0" frameWidth="400" frameHeight="404"/>
+	<SubTexture name="UHOH 30008" x="6771" y="1808" width="400" height="404"/>
+	<SubTexture name="UHOH 30009" x="7171" y="1808" width="400" height="404"/>
+	<SubTexture name="UHOH 30010" x="7571" y="1808" width="397" height="404" frameX="-3" frameY="0" frameWidth="400" frameHeight="404"/>
+	<SubTexture name="UHOH 30011" x="0" y="2217" width="371" height="404" frameX="-29" frameY="0" frameWidth="400" frameHeight="404"/>
+	<SubTexture name="UHOH 30012" x="371" y="2217" width="372" height="404" frameX="-28" frameY="0" frameWidth="400" frameHeight="404"/>
+	<SubTexture name="UHOH 30013" x="743" y="2217" width="400" height="404"/>
+	<SubTexture name="UHOH 30014" x="743" y="2217" width="400" height="404"/>
+	<SubTexture name="UHOH 30015" x="1143" y="2217" width="397" height="404" frameX="-3" frameY="0" frameWidth="400" frameHeight="404"/>
+	<SubTexture name="UHOH 30016" x="1143" y="2217" width="397" height="404" frameX="-3" frameY="0" frameWidth="400" frameHeight="404"/>
+	<SubTexture name="UHOH 30017" x="1143" y="2217" width="397" height="404" frameX="-3" frameY="0" frameWidth="400" frameHeight="404"/>
+	<SubTexture name="UHOH 30018" x="1143" y="2217" width="397" height="404" frameX="-3" frameY="0" frameWidth="400" frameHeight="404"/>
+	<SubTexture name="UHOH 30019" x="1143" y="2217" width="397" height="404" frameX="-3" frameY="0" frameWidth="400" frameHeight="404"/>
+	<SubTexture name="UHOH 30020" x="1143" y="2217" width="397" height="404" frameX="-3" frameY="0" frameWidth="400" frameHeight="404"/>
+	<SubTexture name="UHOH 30021" x="1143" y="2217" width="397" height="404" frameX="-3" frameY="0" frameWidth="400" frameHeight="404"/>
+	<SubTexture name="UHOH 30022" x="1143" y="2217" width="397" height="404" frameX="-3" frameY="0" frameWidth="400" frameHeight="404"/>
+	<SubTexture name="UHOH 30023" x="1143" y="2217" width="397" height="404" frameX="-3" frameY="0" frameWidth="400" frameHeight="404"/>
+	<SubTexture name="UHOH 30024" x="1143" y="2217" width="397" height="404" frameX="-3" frameY="0" frameWidth="400" frameHeight="404"/>
+	<SubTexture name="UHOH 30025" x="1143" y="2217" width="397" height="404" frameX="-3" frameY="0" frameWidth="400" frameHeight="404"/>
+	<SubTexture name="UHOH 30026" x="1143" y="2217" width="397" height="404" frameX="-3" frameY="0" frameWidth="400" frameHeight="404"/>
+	<SubTexture name="UHOH 30027" x="1143" y="2217" width="397" height="404" frameX="-3" frameY="0" frameWidth="400" frameHeight="404"/>
+	<SubTexture name="UHOH 30028" x="1143" y="2217" width="397" height="404" frameX="-3" frameY="0" frameWidth="400" frameHeight="404"/>
+	<SubTexture name="UHOH 30029" x="1143" y="2217" width="397" height="404" frameX="-3" frameY="0" frameWidth="400" frameHeight="404"/>
+	<SubTexture name="UHOH 30030" x="1143" y="2217" width="397" height="404" frameX="-3" frameY="0" frameWidth="400" frameHeight="404"/>
+	<SubTexture name="UHOH 30031" x="1143" y="2217" width="397" height="404" frameX="-3" frameY="0" frameWidth="400" frameHeight="404"/>
+	<SubTexture name="UHOH 30032" x="1143" y="2217" width="397" height="404" frameX="-3" frameY="0" frameWidth="400" frameHeight="404"/>
+	<SubTexture name="UHOH 30033" x="1143" y="2217" width="397" height="404" frameX="-3" frameY="0" frameWidth="400" frameHeight="404"/>
+	<SubTexture name="UHOH 30034" x="1143" y="2217" width="397" height="404" frameX="-3" frameY="0" frameWidth="400" frameHeight="404"/>
+	<SubTexture name="UHOH 30035" x="1143" y="2217" width="397" height="404" frameX="-3" frameY="0" frameWidth="400" frameHeight="404"/>
+	<SubTexture name="UHOH 30036" x="1143" y="2217" width="397" height="404" frameX="-3" frameY="0" frameWidth="400" frameHeight="404"/>
+	<SubTexture name="UHOH 30037" x="1143" y="2217" width="397" height="404" frameX="-3" frameY="0" frameWidth="400" frameHeight="404"/>
+	<SubTexture name="UHOH 30038" x="1143" y="2217" width="397" height="404" frameX="-3" frameY="0" frameWidth="400" frameHeight="404"/>
+	<SubTexture name="UHOH 30039" x="1143" y="2217" width="397" height="404" frameX="-3" frameY="0" frameWidth="400" frameHeight="404"/>
+	<SubTexture name="UHOH 30040" x="1143" y="2217" width="397" height="404" frameX="-3" frameY="0" frameWidth="400" frameHeight="404"/>
+	<SubTexture name="UHOH 30041" x="1143" y="2217" width="397" height="404" frameX="-3" frameY="0" frameWidth="400" frameHeight="404"/>
+	<SubTexture name="UHOH 30042" x="1143" y="2217" width="397" height="404" frameX="-3" frameY="0" frameWidth="400" frameHeight="404"/>
+	<SubTexture name="UHOH 30043" x="1143" y="2217" width="397" height="404" frameX="-3" frameY="0" frameWidth="400" frameHeight="404"/>
+	<SubTexture name="UHOH 30044" x="1143" y="2217" width="397" height="404" frameX="-3" frameY="0" frameWidth="400" frameHeight="404"/>
+	<SubTexture name="UHOH 30045" x="1143" y="2217" width="397" height="404" frameX="-3" frameY="0" frameWidth="400" frameHeight="404"/>
+	<SubTexture name="UHOH 30046" x="1143" y="2217" width="397" height="404" frameX="-3" frameY="0" frameWidth="400" frameHeight="404"/>
+	<SubTexture name="UHOH 30047" x="1143" y="2217" width="397" height="404" frameX="-3" frameY="0" frameWidth="400" frameHeight="404"/>
+	<SubTexture name="UHOH 30048" x="1143" y="2217" width="397" height="404" frameX="-3" frameY="0" frameWidth="400" frameHeight="404"/>
+	<SubTexture name="UHOH 30049" x="1143" y="2217" width="397" height="404" frameX="-3" frameY="0" frameWidth="400" frameHeight="404"/>
+	<SubTexture name="UHOH 30050" x="1143" y="2217" width="397" height="404" frameX="-3" frameY="0" frameWidth="400" frameHeight="404"/>
+	<SubTexture name="Up0000" x="1540" y="2217" width="279" height="519" frameX="-86" frameY="0" frameWidth="417" frameHeight="519"/>
+	<SubTexture name="Up0001" x="1540" y="2217" width="279" height="519" frameX="-86" frameY="0" frameWidth="417" frameHeight="519"/>
+	<SubTexture name="Up0002" x="1819" y="2217" width="360" height="497" frameX="-28" frameY="-22" frameWidth="417" frameHeight="519"/>
+	<SubTexture name="Up0003" x="1819" y="2217" width="360" height="497" frameX="-28" frameY="-22" frameWidth="417" frameHeight="519"/>
+	<SubTexture name="Up0004" x="2179" y="2217" width="396" height="497" frameX="-8" frameY="-22" frameWidth="417" frameHeight="519"/>
+	<SubTexture name="Up0005" x="2179" y="2217" width="396" height="497" frameX="-8" frameY="-22" frameWidth="417" frameHeight="519"/>
+	<SubTexture name="Up0006" x="2575" y="2217" width="417" height="497" frameX="0" frameY="-22" frameWidth="417" frameHeight="519"/>
+	<SubTexture name="Up0007" x="2575" y="2217" width="417" height="497" frameX="0" frameY="-22" frameWidth="417" frameHeight="519"/>
+	<SubTexture name="Up0008" x="2992" y="2217" width="249" height="497" frameX="-115" frameY="-22" frameWidth="417" frameHeight="519"/>
+	<SubTexture name="Up0009" x="2992" y="2217" width="249" height="497" frameX="-115" frameY="-22" frameWidth="417" frameHeight="519"/>
+	<SubTexture name="Up0010" x="3241" y="2217" width="249" height="496" frameX="-115" frameY="-23" frameWidth="417" frameHeight="519"/>
+	<SubTexture name="Up0011" x="3241" y="2217" width="249" height="496" frameX="-115" frameY="-23" frameWidth="417" frameHeight="519"/>
+	<SubTexture name="Up0012" x="2992" y="2217" width="249" height="497" frameX="-115" frameY="-22" frameWidth="417" frameHeight="519"/>
+	<SubTexture name="Up0013" x="2992" y="2217" width="249" height="497" frameX="-115" frameY="-22" frameWidth="417" frameHeight="519"/>
+	<SubTexture name="Up0014" x="2992" y="2217" width="249" height="497" frameX="-115" frameY="-22" frameWidth="417" frameHeight="519"/>
+	<SubTexture name="Up miss0000" x="3490" y="2217" width="285" height="517" frameX="-112" frameY="-16" frameWidth="513" frameHeight="541"/>
+	<SubTexture name="Up miss0001" x="3490" y="2217" width="285" height="517" frameX="-112" frameY="-16" frameWidth="513" frameHeight="541"/>
+	<SubTexture name="Up miss0002" x="3775" y="2217" width="485" height="517" frameX="-12" frameY="-16" frameWidth="513" frameHeight="541"/>
+	<SubTexture name="Up miss0003" x="4260" y="2217" width="463" height="521" frameX="-18" frameY="-20" frameWidth="513" frameHeight="541"/>
+	<SubTexture name="Up miss0004" x="4723" y="2217" width="492" height="521" frameX="-5" frameY="-16" frameWidth="513" frameHeight="541"/>
+	<SubTexture name="Up miss0005" x="5215" y="2217" width="513" height="537" frameX="0" frameY="0" frameWidth="513" frameHeight="541"/>
+	<SubTexture name="Up miss0006" x="5728" y="2217" width="142" height="91" frameX="-161" frameY="-446" frameWidth="513" frameHeight="541"/>
+	<SubTexture name="Up miss0007" x="5728" y="2217" width="142" height="91" frameX="-161" frameY="-446" frameWidth="513" frameHeight="541"/>
+	<SubTexture name="Up miss0008" x="5728" y="2217" width="142" height="91" frameX="-161" frameY="-446" frameWidth="513" frameHeight="541"/>
+	<SubTexture name="Up miss0009" x="5728" y="2217" width="142" height="91" frameX="-161" frameY="-446" frameWidth="513" frameHeight="541"/>
+	<SubTexture name="Up miss0010" x="5728" y="2217" width="142" height="91" frameX="-161" frameY="-446" frameWidth="513" frameHeight="541"/>
+	<SubTexture name="Up miss0011" x="5728" y="2217" width="142" height="91" frameX="-161" frameY="-446" frameWidth="513" frameHeight="541"/>
+	<SubTexture name="Up miss0012" x="5728" y="2217" width="142" height="91" frameX="-161" frameY="-446" frameWidth="513" frameHeight="541"/>
+	<SubTexture name="Up miss0013" x="5728" y="2217" width="142" height="91" frameX="-161" frameY="-446" frameWidth="513" frameHeight="541"/>
+	<SubTexture name="Up miss0014" x="5728" y="2217" width="142" height="91" frameX="-161" frameY="-446" frameWidth="513" frameHeight="541"/>
+	<SubTexture name="WAKEYWAKEY0000" x="5870" y="2217" width="271" height="395" frameX="-58" frameY="0" frameWidth="329" frameHeight="395"/>
+	<SubTexture name="WAKEYWAKEY0001" x="5870" y="2217" width="271" height="395" frameX="-58" frameY="0" frameWidth="329" frameHeight="395"/>
+	<SubTexture name="WAKEYWAKEY0002" x="5870" y="2217" width="271" height="395" frameX="-58" frameY="0" frameWidth="329" frameHeight="395"/>
+	<SubTexture name="WAKEYWAKEY0003" x="5870" y="2217" width="271" height="395" frameX="-58" frameY="0" frameWidth="329" frameHeight="395"/>
+	<SubTexture name="WAKEYWAKEY0004" x="5870" y="2217" width="271" height="395" frameX="-58" frameY="0" frameWidth="329" frameHeight="395"/>
+	<SubTexture name="WAKEYWAKEY0005" x="5870" y="2217" width="271" height="395" frameX="-58" frameY="0" frameWidth="329" frameHeight="395"/>
+	<SubTexture name="WAKEYWAKEY0006" x="5870" y="2217" width="271" height="395" frameX="-58" frameY="0" frameWidth="329" frameHeight="395"/>
+	<SubTexture name="WAKEYWAKEY0007" x="5870" y="2217" width="271" height="395" frameX="-58" frameY="0" frameWidth="329" frameHeight="395"/>
+	<SubTexture name="WAKEYWAKEY0008" x="5870" y="2217" width="271" height="395" frameX="-58" frameY="0" frameWidth="329" frameHeight="395"/>
+	<SubTexture name="WAKEYWAKEY0009" x="5870" y="2217" width="271" height="395" frameX="-58" frameY="0" frameWidth="329" frameHeight="395"/>
+	<SubTexture name="WAKEYWAKEY0010" x="5870" y="2217" width="271" height="395" frameX="-58" frameY="0" frameWidth="329" frameHeight="395"/>
+	<SubTexture name="WAKEYWAKEY0011" x="5870" y="2217" width="271" height="395" frameX="-58" frameY="0" frameWidth="329" frameHeight="395"/>
+	<SubTexture name="WAKEYWAKEY0012" x="5870" y="2217" width="271" height="395" frameX="-58" frameY="0" frameWidth="329" frameHeight="395"/>
+	<SubTexture name="WAKEYWAKEY0013" x="6141" y="2217" width="271" height="377" frameX="-58" frameY="-18" frameWidth="329" frameHeight="395"/>
+	<SubTexture name="WAKEYWAKEY0014" x="6412" y="2217" width="271" height="395" frameX="-58" frameY="0" frameWidth="329" frameHeight="395"/>
+	<SubTexture name="WAKEYWAKEY0015" x="6683" y="2217" width="271" height="395" frameX="-58" frameY="0" frameWidth="329" frameHeight="395"/>
+	<SubTexture name="WAKEYWAKEY0016" x="6954" y="2217" width="271" height="395" frameX="-58" frameY="0" frameWidth="329" frameHeight="395"/>
+	<SubTexture name="WAKEYWAKEY0017" x="7225" y="2217" width="271" height="395" frameX="-58" frameY="0" frameWidth="329" frameHeight="395"/>
+	<SubTexture name="WAKEYWAKEY0018" x="7496" y="2217" width="271" height="395" frameX="-58" frameY="0" frameWidth="329" frameHeight="395"/>
+	<SubTexture name="WAKEYWAKEY0019" x="7496" y="2217" width="271" height="395" frameX="-58" frameY="0" frameWidth="329" frameHeight="395"/>
+	<SubTexture name="WAKEYWAKEY0020" x="7767" y="2217" width="271" height="395" frameX="-58" frameY="0" frameWidth="329" frameHeight="395"/>
+	<SubTexture name="WAKEYWAKEY0021" x="0" y="2754" width="271" height="395" frameX="-58" frameY="0" frameWidth="329" frameHeight="395"/>
+	<SubTexture name="WAKEYWAKEY0022" x="271" y="2754" width="271" height="395" frameX="-58" frameY="0" frameWidth="329" frameHeight="395"/>
+	<SubTexture name="WAKEYWAKEY0023" x="542" y="2754" width="271" height="395" frameX="-58" frameY="0" frameWidth="329" frameHeight="395"/>
+	<SubTexture name="WAKEYWAKEY0024" x="813" y="2754" width="271" height="395" frameX="-58" frameY="0" frameWidth="329" frameHeight="395"/>
+	<SubTexture name="WAKEYWAKEY0025" x="813" y="2754" width="271" height="395" frameX="-58" frameY="0" frameWidth="329" frameHeight="395"/>
+	<SubTexture name="WAKEYWAKEY0026" x="1084" y="2754" width="271" height="395" frameX="-58" frameY="0" frameWidth="329" frameHeight="395"/>
+	<SubTexture name="WAKEYWAKEY0027" x="1355" y="2754" width="271" height="395" frameX="-58" frameY="0" frameWidth="329" frameHeight="395"/>
+	<SubTexture name="WAKEYWAKEY0028" x="1626" y="2754" width="271" height="395" frameX="-58" frameY="0" frameWidth="329" frameHeight="395"/>
+	<SubTexture name="WAKEYWAKEY0029" x="1626" y="2754" width="271" height="395" frameX="-58" frameY="0" frameWidth="329" frameHeight="395"/>
+	<SubTexture name="WAKEYWAKEY0030" x="1897" y="2754" width="271" height="395" frameX="-58" frameY="0" frameWidth="329" frameHeight="395"/>
+	<SubTexture name="WAKEYWAKEY0031" x="2168" y="2754" width="317" height="382" frameX="-4" frameY="-11" frameWidth="329" frameHeight="395"/>
+	<SubTexture name="WAKEYWAKEY0032" x="2485" y="2754" width="322" height="384" frameX="0" frameY="-9" frameWidth="329" frameHeight="395"/>
+	<SubTexture name="WAKEYWAKEY0033" x="2485" y="2754" width="322" height="384" frameX="0" frameY="-9" frameWidth="329" frameHeight="395"/>
+	<SubTexture name="WAKEYWAKEY0034" x="2485" y="2754" width="322" height="384" frameX="0" frameY="-9" frameWidth="329" frameHeight="395"/>
+	<SubTexture name="WAKEYWAKEY0035" x="2807" y="2754" width="322" height="384" frameX="0" frameY="-9" frameWidth="329" frameHeight="395"/>
+	<SubTexture name="WAKEYWAKEY0036" x="2807" y="2754" width="322" height="384" frameX="0" frameY="-9" frameWidth="329" frameHeight="395"/>
+	<SubTexture name="WAKEYWAKEY0037" x="3129" y="2754" width="322" height="384" frameX="0" frameY="-9" frameWidth="329" frameHeight="395"/>
+	<SubTexture name="WAKEYWAKEY0038" x="3129" y="2754" width="322" height="384" frameX="0" frameY="-9" frameWidth="329" frameHeight="395"/>
+	<SubTexture name="WAKEYWAKEY0039" x="3451" y="2754" width="322" height="384" frameX="0" frameY="-9" frameWidth="329" frameHeight="395"/>
+	<SubTexture name="WAKEYWAKEY0040" x="3451" y="2754" width="322" height="384" frameX="0" frameY="-9" frameWidth="329" frameHeight="395"/>
+	<SubTexture name="WAKEYWAKEY0041" x="3773" y="2754" width="322" height="384" frameX="0" frameY="-9" frameWidth="329" frameHeight="395"/>
+	<SubTexture name="WAKEYWAKEY0042" x="3773" y="2754" width="322" height="384" frameX="0" frameY="-9" frameWidth="329" frameHeight="395"/>
+	<SubTexture name="WAKEYWAKEY0043" x="4095" y="2754" width="322" height="384" frameX="0" frameY="-9" frameWidth="329" frameHeight="395"/>
+	<SubTexture name="WAKEYWAKEY0044" x="4417" y="2754" width="322" height="384" frameX="0" frameY="-9" frameWidth="329" frameHeight="395"/>
+	<SubTexture name="WAKEYWAKEY0045" x="4417" y="2754" width="322" height="384" frameX="0" frameY="-9" frameWidth="329" frameHeight="395"/>
+	<SubTexture name="WAKEYWAKEY0046" x="4739" y="2754" width="322" height="384" frameX="0" frameY="-9" frameWidth="329" frameHeight="395"/>
+	<SubTexture name="WAKEYWAKEY0047" x="5061" y="2754" width="322" height="384" frameX="0" frameY="-9" frameWidth="329" frameHeight="395"/>
+	<SubTexture name="WAKEYWAKEY0048" x="5061" y="2754" width="322" height="384" frameX="0" frameY="-9" frameWidth="329" frameHeight="395"/>
+	<SubTexture name="WAKEYWAKEY0049" x="5383" y="2754" width="322" height="384" frameX="0" frameY="-9" frameWidth="329" frameHeight="395"/>
+	<SubTexture name="WAKEYWAKEY0050" x="5383" y="2754" width="322" height="384" frameX="0" frameY="-9" frameWidth="329" frameHeight="395"/>
+	<SubTexture name="WAKEYWAKEY0051" x="5705" y="2754" width="322" height="384" frameX="0" frameY="-9" frameWidth="329" frameHeight="395"/>
+	<SubTexture name="WAKEYWAKEY0052" x="5705" y="2754" width="322" height="384" frameX="0" frameY="-9" frameWidth="329" frameHeight="395"/>
+	<SubTexture name="WAKEYWAKEY0053" x="6027" y="2754" width="322" height="384" frameX="0" frameY="-9" frameWidth="329" frameHeight="395"/>
+	<SubTexture name="WAKEYWAKEY0054" x="6349" y="2754" width="322" height="384" frameX="0" frameY="-9" frameWidth="329" frameHeight="395"/>
+	<SubTexture name="WAKEYWAKEY0055" x="6349" y="2754" width="322" height="384" frameX="0" frameY="-9" frameWidth="329" frameHeight="395"/>
+	<SubTexture name="WAKEYWAKEY0056" x="6671" y="2754" width="307" height="360" frameX="-15" frameY="-33" frameWidth="329" frameHeight="395"/>
+	<SubTexture name="WAKEYWAKEY0057" x="6978" y="2754" width="307" height="384" frameX="-15" frameY="-9" frameWidth="329" frameHeight="395"/>
+	<SubTexture name="WAKEYWAKEY0058" x="6978" y="2754" width="307" height="384" frameX="-15" frameY="-9" frameWidth="329" frameHeight="395"/>
+	<SubTexture name="WAKEYWAKEY 100000" x="7285" y="2754" width="352" height="390" frameX="-2" frameY="0" frameWidth="355" frameHeight="392"/>
+	<SubTexture name="WAKEYWAKEY 100001" x="7637" y="2754" width="355" height="392"/>
+	<SubTexture name="WAKEYWAKEY 100002" x="0" y="3149" width="355" height="392"/>
+	<SubTexture name="WAKEYWAKEY 100003" x="0" y="3149" width="355" height="392"/>
+	<SubTexture name="WAKEYWAKEY 100004" x="0" y="3149" width="355" height="392"/>
+	<SubTexture name="WAKEYWAKEY 100005" x="355" y="3149" width="355" height="392"/>
+	<SubTexture name="WAKEYWAKEY 100006" x="710" y="3149" width="355" height="392"/>
+	<SubTexture name="WAKEYWAKEY 100007" x="1065" y="3149" width="355" height="392"/>
+	<SubTexture name="WAKEYWAKEY 100008" x="1420" y="3149" width="355" height="392"/>
+	<SubTexture name="WAKEYWAKEY 100009" x="1775" y="3149" width="355" height="392"/>
+	<SubTexture name="WAKEYWAKEY 100010" x="1065" y="3149" width="355" height="392"/>
+	<SubTexture name="WAKEYWAKEY 100011" x="1420" y="3149" width="355" height="392"/>
+	<SubTexture name="WAKEYWAKEY 100012" x="2130" y="3149" width="355" height="392"/>
+	<SubTexture name="WAKEYWAKEY 100013" x="2485" y="3149" width="355" height="392"/>
+	<SubTexture name="WAKEYWAKEY 100014" x="2840" y="3149" width="355" height="392"/>
+	<SubTexture name="WAKEYWAKEY 100015" x="3195" y="3149" width="355" height="392"/>
+	<SubTexture name="WAKEYWAKEY 100016" x="3550" y="3149" width="355" height="392"/>
+	<SubTexture name="WAKEYWAKEY 100017" x="3905" y="3149" width="355" height="392"/>
+	<SubTexture name="WAKEYWAKEY 100018" x="3195" y="3149" width="355" height="392"/>
+	<SubTexture name="WAKEYWAKEY 100019" x="4260" y="3149" width="355" height="392"/>
+	<SubTexture name="WAKEYWAKEY 100020" x="4615" y="3149" width="355" height="392"/>
+	<SubTexture name="WAKEYWAKEY 100021" x="4970" y="3149" width="355" height="392"/>
+	<SubTexture name="WAKEYWAKEY 100022" x="5325" y="3149" width="355" height="392"/>
+	<SubTexture name="WAKEYWAKEY 100023" x="5680" y="3149" width="355" height="392"/>
+	<SubTexture name="WAKEYWAKEY 100024" x="6035" y="3149" width="355" height="392"/>
+	<SubTexture name="WAKEYWAKEY 100025" x="6390" y="3149" width="355" height="392"/>
+	<SubTexture name="WAKEYWAKEY 100026" x="6390" y="3149" width="355" height="392"/>
+	<SubTexture name="WAKEYWAKEY 100027" x="6390" y="3149" width="355" height="392"/>
+	<SubTexture name="WAKEYWAKEY 100028" x="6390" y="3149" width="355" height="392"/>
+	<SubTexture name="WAKEYWAKEY 100029" x="6390" y="3149" width="355" height="392"/>
+	<SubTexture name="WAKEYWAKEY 100030" x="6390" y="3149" width="355" height="392"/>
+	<SubTexture name="WAKEYWAKEY 100031" x="6390" y="3149" width="355" height="392"/>
+	<SubTexture name="WAKEYWAKEY 100032" x="6390" y="3149" width="355" height="392"/>
+	<SubTexture name="WAKEYWAKEY 100033" x="6390" y="3149" width="355" height="392"/>
+	<SubTexture name="WAKEYWAKEY 100034" x="6390" y="3149" width="355" height="392"/>
+	<SubTexture name="WAKEYWAKEY 20000" x="6745" y="3149" width="328" height="339" frameX="0" frameY="-21" frameWidth="328" frameHeight="360"/>
+	<SubTexture name="WAKEYWAKEY 20001" x="7073" y="3149" width="328" height="360"/>
+	<SubTexture name="WAKEYWAKEY 20002" x="7401" y="3149" width="328" height="360"/>
+	<SubTexture name="WAKEYWAKEY 20003" x="7729" y="3149" width="328" height="360"/>
+	<SubTexture name="WAKEYWAKEY 20004" x="7729" y="3149" width="328" height="360"/>
+	<SubTexture name="WAKEYWAKEY 20005" x="0" y="3541" width="328" height="360"/>
+	<SubTexture name="WAKEYWAKEY 20006" x="328" y="3541" width="328" height="360"/>
+	<SubTexture name="WAKEYWAKEY 20007" x="328" y="3541" width="328" height="360"/>
+	<SubTexture name="WAKEYWAKEY 20008" x="656" y="3541" width="328" height="360"/>
+	<SubTexture name="WAKEYWAKEY 20009" x="984" y="3541" width="328" height="360"/>
+	<SubTexture name="WAKEYWAKEY 20010" x="984" y="3541" width="328" height="360"/>
+	<SubTexture name="WAKEYWAKEY 20011" x="1312" y="3541" width="328" height="360"/>
+	<SubTexture name="WAKEYWAKEY 20012" x="1640" y="3541" width="328" height="360"/>
+	<SubTexture name="WAKEYWAKEY 20013" x="1640" y="3541" width="328" height="360"/>
+	<SubTexture name="WAKEYWAKEY 20014" x="1640" y="3541" width="328" height="360"/>
+	<SubTexture name="WAKEYWAKEY 20015" x="1968" y="3541" width="328" height="360"/>
+	<SubTexture name="WAKEYWAKEY 20016" x="2296" y="3541" width="328" height="360"/>
+	<SubTexture name="WAKEYWAKEY 20017" x="2296" y="3541" width="328" height="360"/>
+	<SubTexture name="WAKEYWAKEY 20018" x="2624" y="3541" width="328" height="360"/>
+	<SubTexture name="WAKEYWAKEY 20019" x="2952" y="3541" width="328" height="360"/>
+	<SubTexture name="WAKEYWAKEY 20020" x="2952" y="3541" width="328" height="360"/>
+	<SubTexture name="WAKEYWAKEY 20021" x="3280" y="3541" width="328" height="360"/>
+	<SubTexture name="WAKEYWAKEY 20022" x="3608" y="3541" width="328" height="360"/>
+	<SubTexture name="WAKEYWAKEY 20023" x="3608" y="3541" width="328" height="360"/>
+	<SubTexture name="WAKEYWAKEY 20024" x="3608" y="3541" width="328" height="360"/>
+	<SubTexture name="WAKEYWAKEY 20025" x="3608" y="3541" width="328" height="360"/>
+	<SubTexture name="WAKEYWAKEY 20026" x="3608" y="3541" width="328" height="360"/>
+	<SubTexture name="WAKEYWAKEY 30000" x="3936" y="3541" width="272" height="384" frameX="0" frameY="-4" frameWidth="272" frameHeight="388"/>
+	<SubTexture name="WAKEYWAKEY 30001" x="3936" y="3541" width="272" height="384" frameX="0" frameY="-4" frameWidth="272" frameHeight="388"/>
+	<SubTexture name="WAKEYWAKEY 30002" x="4208" y="3541" width="272" height="384" frameX="0" frameY="-4" frameWidth="272" frameHeight="388"/>
+	<SubTexture name="WAKEYWAKEY 30003" x="4208" y="3541" width="272" height="384" frameX="0" frameY="-4" frameWidth="272" frameHeight="388"/>
+	<SubTexture name="WAKEYWAKEY 30004" x="4480" y="3541" width="272" height="384" frameX="0" frameY="-4" frameWidth="272" frameHeight="388"/>
+	<SubTexture name="WAKEYWAKEY 30005" x="4480" y="3541" width="272" height="384" frameX="0" frameY="-4" frameWidth="272" frameHeight="388"/>
+	<SubTexture name="WAKEYWAKEY 30006" x="4752" y="3541" width="272" height="384" frameX="0" frameY="-4" frameWidth="272" frameHeight="388"/>
+	<SubTexture name="WAKEYWAKEY 30007" x="4752" y="3541" width="272" height="384" frameX="0" frameY="-4" frameWidth="272" frameHeight="388"/>
+	<SubTexture name="WAKEYWAKEY 30008" x="5024" y="3541" width="272" height="384" frameX="0" frameY="-4" frameWidth="272" frameHeight="388"/>
+	<SubTexture name="WAKEYWAKEY 30009" x="5024" y="3541" width="272" height="384" frameX="0" frameY="-4" frameWidth="272" frameHeight="388"/>
+	<SubTexture name="WAKEYWAKEY 30010" x="5296" y="3541" width="272" height="384" frameX="0" frameY="-4" frameWidth="272" frameHeight="388"/>
+	<SubTexture name="WAKEYWAKEY 30011" x="5296" y="3541" width="272" height="384" frameX="0" frameY="-4" frameWidth="272" frameHeight="388"/>
+	<SubTexture name="WAKEYWAKEY 30012" x="5568" y="3541" width="272" height="384" frameX="0" frameY="-4" frameWidth="272" frameHeight="388"/>
+	<SubTexture name="WAKEYWAKEY 30013" x="5568" y="3541" width="272" height="384" frameX="0" frameY="-4" frameWidth="272" frameHeight="388"/>
+	<SubTexture name="WAKEYWAKEY 30014" x="5568" y="3541" width="272" height="384" frameX="0" frameY="-4" frameWidth="272" frameHeight="388"/>
+	<SubTexture name="WAKEYWAKEY 30015" x="5840" y="3541" width="272" height="384" frameX="0" frameY="-4" frameWidth="272" frameHeight="388"/>
+	<SubTexture name="WAKEYWAKEY 30016" x="5840" y="3541" width="272" height="384" frameX="0" frameY="-4" frameWidth="272" frameHeight="388"/>
+	<SubTexture name="WAKEYWAKEY 30017" x="5840" y="3541" width="272" height="384" frameX="0" frameY="-4" frameWidth="272" frameHeight="388"/>
+	<SubTexture name="WAKEYWAKEY 30018" x="6112" y="3541" width="272" height="384" frameX="0" frameY="-4" frameWidth="272" frameHeight="388"/>
+	<SubTexture name="WAKEYWAKEY 30019" x="6112" y="3541" width="272" height="384" frameX="0" frameY="-4" frameWidth="272" frameHeight="388"/>
+	<SubTexture name="WAKEYWAKEY 30020" x="6384" y="3541" width="272" height="384" frameX="0" frameY="-4" frameWidth="272" frameHeight="388"/>
+	<SubTexture name="WAKEYWAKEY 30021" x="6384" y="3541" width="272" height="384" frameX="0" frameY="-4" frameWidth="272" frameHeight="388"/>
+	<SubTexture name="WAKEYWAKEY 30022" x="6384" y="3541" width="272" height="384" frameX="0" frameY="-4" frameWidth="272" frameHeight="388"/>
+	<SubTexture name="WAKEYWAKEY 30023" x="6656" y="3541" width="272" height="384" frameX="0" frameY="-4" frameWidth="272" frameHeight="388"/>
+	<SubTexture name="WAKEYWAKEY 30024" x="6928" y="3541" width="272" height="384" frameX="0" frameY="-4" frameWidth="272" frameHeight="388"/>
+	<SubTexture name="WAKEYWAKEY 30025" x="6928" y="3541" width="272" height="384" frameX="0" frameY="-4" frameWidth="272" frameHeight="388"/>
+	<SubTexture name="WAKEYWAKEY 30026" x="6928" y="3541" width="272" height="384" frameX="0" frameY="-4" frameWidth="272" frameHeight="388"/>
+	<SubTexture name="WAKEYWAKEY 30027" x="6928" y="3541" width="272" height="384" frameX="0" frameY="-4" frameWidth="272" frameHeight="388"/>
+	<SubTexture name="WAKEYWAKEY 30028" x="6928" y="3541" width="272" height="384" frameX="0" frameY="-4" frameWidth="272" frameHeight="388"/>
+	<SubTexture name="WAKEYWAKEY 30029" x="7200" y="3541" width="272" height="388"/>
+	<SubTexture name="WAKEYWAKEY 30030" x="7200" y="3541" width="272" height="388"/>
+	<SubTexture name="WAKEYWAKEY 30031" x="7472" y="3541" width="272" height="388"/>
+	<SubTexture name="WAKEYWAKEY 30032" x="7472" y="3541" width="272" height="388"/>
+	<SubTexture name="WAKEYWAKEY 30033" x="7744" y="3541" width="272" height="388"/>
+	<SubTexture name="WAKEYWAKEY 30034" x="7744" y="3541" width="272" height="388"/>
+	<SubTexture name="WAKEYWAKEY 30035" x="7744" y="3541" width="272" height="388"/>
+	<SubTexture name="WAKEYWAKEY 30036" x="7744" y="3541" width="272" height="388"/>
+	<SubTexture name="WAKEYWAKEY 30037" x="7744" y="3541" width="272" height="388"/>
+	<SubTexture name="WAKEYWAKEY 30038" x="7744" y="3541" width="272" height="388"/>
+	<SubTexture name="WAKEYWAKEY 30039" x="7744" y="3541" width="272" height="388"/>
+	<SubTexture name="WAKEYWAKEY 30040" x="7744" y="3541" width="272" height="388"/>
+	<SubTexture name="WAKEYWAKEY 30041" x="7744" y="3541" width="272" height="388"/>
+	<SubTexture name="WAKEYWAKEY 30042" x="7744" y="3541" width="272" height="388"/>
+	<SubTexture name="WAKEYWAKEY 30043" x="7744" y="3541" width="272" height="388"/>
+	<SubTexture name="WAKEYWAKEY 30044" x="7744" y="3541" width="272" height="388"/>
+	<SubTexture name="WAKEYWAKEY 30045" x="7744" y="3541" width="272" height="388"/>
+	<SubTexture name="WAKEYWAKEY 30046" x="7744" y="3541" width="272" height="388"/>
+	<SubTexture name="WAKEYWAKEY 30047" x="7744" y="3541" width="272" height="388"/>
+	<SubTexture name="WAKEYWAKEY 30048" x="7744" y="3541" width="272" height="388"/>
+	<SubTexture name="WAKEYWAKEY 30049" x="7744" y="3541" width="272" height="388"/>
+	<SubTexture name="WAKEYWAKEY 30050" x="7744" y="3541" width="272" height="388"/>
+	<SubTexture name="WAKEYWAKEY 30051" x="7744" y="3541" width="272" height="388"/>
+	<SubTexture name="WAKEYWAKEY 30052" x="7744" y="3541" width="272" height="388"/>
+	<SubTexture name="WAKEYWAKEY 30053" x="7744" y="3541" width="272" height="388"/>
+	<SubTexture name="WAKEYWAKEY 30054" x="7744" y="3541" width="272" height="388"/>
+	<SubTexture name="WAKEYWAKEY 30055" x="7744" y="3541" width="272" height="388"/>
+	<SubTexture name="WAKEYWAKEY 30056" x="7744" y="3541" width="272" height="388"/>
+	<SubTexture name="WAKEYWAKEY 30057" x="7744" y="3541" width="272" height="388"/>
+	<SubTexture name="WAKEYWAKEY 30058" x="7744" y="3541" width="272" height="388"/>
+	<SubTexture name="WAKEYWAKEY 30059" x="7744" y="3541" width="272" height="388"/>
+	<SubTexture name="WAKEYWAKEY 30060" x="7744" y="3541" width="272" height="388"/>
+	<SubTexture name="WAKEYWAKEY 30061" x="7744" y="3541" width="272" height="388"/>
+	<SubTexture name="WAKEYWAKEY 30062" x="7744" y="3541" width="272" height="388"/>
+	<SubTexture name="WAKEYWAKEY 30063" x="7744" y="3541" width="272" height="388"/>
+	<SubTexture name="WAKEYWAKEY 30064" x="7744" y="3541" width="272" height="388"/>
+	<SubTexture name="WAKEYWAKEY 30065" x="7744" y="3541" width="272" height="388"/>
+	<SubTexture name="WAKEYWAKEY 30066" x="7744" y="3541" width="272" height="388"/>
+	<SubTexture name="WAKEYWAKEY 40000" x="0" y="3929" width="355" height="349" frameX="0" frameY="0" frameWidth="360" frameHeight="350"/>
+	<SubTexture name="WAKEYWAKEY 40001" x="355" y="3929" width="360" height="349" frameX="0" frameY="-1" frameWidth="360" frameHeight="350"/>
+	<SubTexture name="WAKEYWAKEY 40002" x="355" y="3929" width="360" height="349" frameX="0" frameY="-1" frameWidth="360" frameHeight="350"/>
+	<SubTexture name="WAKEYWAKEY 40003" x="355" y="3929" width="360" height="349" frameX="0" frameY="-1" frameWidth="360" frameHeight="350"/>
+	<SubTexture name="WAKEYWAKEY 40004" x="355" y="3929" width="360" height="349" frameX="0" frameY="-1" frameWidth="360" frameHeight="350"/>
+	<SubTexture name="WAKEYWAKEY 40005" x="355" y="3929" width="360" height="349" frameX="0" frameY="-1" frameWidth="360" frameHeight="350"/>
+	<SubTexture name="WAKEYWAKEY 40006" x="355" y="3929" width="360" height="349" frameX="0" frameY="-1" frameWidth="360" frameHeight="350"/>
+	<SubTexture name="WAKEYWAKEY 40007" x="355" y="3929" width="360" height="349" frameX="0" frameY="-1" frameWidth="360" frameHeight="350"/>
+	<SubTexture name="WAKEYWAKEY 40008" x="355" y="3929" width="360" height="349" frameX="0" frameY="-1" frameWidth="360" frameHeight="350"/>
+	<SubTexture name="WAKEYWAKEY 40009" x="355" y="3929" width="360" height="349" frameX="0" frameY="-1" frameWidth="360" frameHeight="350"/>
+	<SubTexture name="WAKEYWAKEY 40010" x="355" y="3929" width="360" height="349" frameX="0" frameY="-1" frameWidth="360" frameHeight="350"/>
+	<SubTexture name="WAKEYWAKEY 40011" x="355" y="3929" width="360" height="349" frameX="0" frameY="-1" frameWidth="360" frameHeight="350"/>
+	<SubTexture name="WAKEYWAKEY 40012" x="355" y="3929" width="360" height="349" frameX="0" frameY="-1" frameWidth="360" frameHeight="350"/>
+	<SubTexture name="WAKEYWAKEY 40013" x="355" y="3929" width="360" height="349" frameX="0" frameY="-1" frameWidth="360" frameHeight="350"/>
+	<SubTexture name="WAKEYWAKEY 40014" x="355" y="3929" width="360" height="349" frameX="0" frameY="-1" frameWidth="360" frameHeight="350"/>
+	<SubTexture name="WAKEYWAKEY 40015" x="355" y="3929" width="360" height="349" frameX="0" frameY="-1" frameWidth="360" frameHeight="350"/>
+	<SubTexture name="WAKEYWAKEY 40016" x="355" y="3929" width="360" height="349" frameX="0" frameY="-1" frameWidth="360" frameHeight="350"/>
+	<SubTexture name="WAKEYWAKEY 40017" x="355" y="3929" width="360" height="349" frameX="0" frameY="-1" frameWidth="360" frameHeight="350"/>
+	<SubTexture name="WAKEYWAKEY 40018" x="355" y="3929" width="360" height="349" frameX="0" frameY="-1" frameWidth="360" frameHeight="350"/>
+	<SubTexture name="WAKEYWAKEY 40019" x="355" y="3929" width="360" height="349" frameX="0" frameY="-1" frameWidth="360" frameHeight="350"/>
+	<SubTexture name="WAKEYWAKEY 40020" x="355" y="3929" width="360" height="349" frameX="0" frameY="-1" frameWidth="360" frameHeight="350"/>
+	<SubTexture name="WAKEYWAKEY 40021" x="355" y="3929" width="360" height="349" frameX="0" frameY="-1" frameWidth="360" frameHeight="350"/>
+	<SubTexture name="WAKEYWAKEY 40022" x="355" y="3929" width="360" height="349" frameX="0" frameY="-1" frameWidth="360" frameHeight="350"/>
+	<SubTexture name="WAKEYWAKEY 40023" x="355" y="3929" width="360" height="349" frameX="0" frameY="-1" frameWidth="360" frameHeight="350"/>
+	<SubTexture name="WAKEYWAKEY 40024" x="355" y="3929" width="360" height="349" frameX="0" frameY="-1" frameWidth="360" frameHeight="350"/>
+	<SubTexture name="WAKEYWAKEY 40025" x="355" y="3929" width="360" height="349" frameX="0" frameY="-1" frameWidth="360" frameHeight="350"/>
+	<SubTexture name="WAKEYWAKEY 40026" x="355" y="3929" width="360" height="349" frameX="0" frameY="-1" frameWidth="360" frameHeight="350"/>
+	<SubTexture name="WAKEYWAKEY 40027" x="355" y="3929" width="360" height="349" frameX="0" frameY="-1" frameWidth="360" frameHeight="350"/>
+	<SubTexture name="WAKEYWAKEY 40028" x="355" y="3929" width="360" height="349" frameX="0" frameY="-1" frameWidth="360" frameHeight="350"/>
+	<SubTexture name="WAKEYWAKEY 40029" x="355" y="3929" width="360" height="349" frameX="0" frameY="-1" frameWidth="360" frameHeight="350"/>
+	<SubTexture name="WAKEYWAKEY 40030" x="355" y="3929" width="360" height="349" frameX="0" frameY="-1" frameWidth="360" frameHeight="350"/>
+	<SubTexture name="WAKEYWAKEY 40031" x="355" y="3929" width="360" height="349" frameX="0" frameY="-1" frameWidth="360" frameHeight="350"/>
+	<SubTexture name="WAKEYWAKEY 40032" x="355" y="3929" width="360" height="349" frameX="0" frameY="-1" frameWidth="360" frameHeight="350"/>
+	<SubTexture name="WAKEYWAKEY 40033" x="355" y="3929" width="360" height="349" frameX="0" frameY="-1" frameWidth="360" frameHeight="350"/>
+	<SubTexture name="WAKEYWAKEY 40034" x="355" y="3929" width="360" height="349" frameX="0" frameY="-1" frameWidth="360" frameHeight="350"/>
+	<SubTexture name="WAKEYWAKEY 40035" x="355" y="3929" width="360" height="349" frameX="0" frameY="-1" frameWidth="360" frameHeight="350"/>
+	<SubTexture name="WAKEYWAKEY 40036" x="355" y="3929" width="360" height="349" frameX="0" frameY="-1" frameWidth="360" frameHeight="350"/>
+	<SubTexture name="WAKEYWAKEY 40037" x="355" y="3929" width="360" height="349" frameX="0" frameY="-1" frameWidth="360" frameHeight="350"/>
+	<SubTexture name="WAKEYWAKEY 40038" x="355" y="3929" width="360" height="349" frameX="0" frameY="-1" frameWidth="360" frameHeight="350"/>
+	<SubTexture name="WAKEYWAKEY 50000" x="715" y="3929" width="272" height="388"/>
+	<SubTexture name="WAKEYWAKEY 50001" x="715" y="3929" width="272" height="388"/>
+	<SubTexture name="WAKEYWAKEY 50002" x="715" y="3929" width="272" height="388"/>
+	<SubTexture name="WAKEYWAKEY 50003" x="715" y="3929" width="272" height="388"/>
+	<SubTexture name="WAKEYWAKEY 50004" x="987" y="3929" width="272" height="388"/>
+	<SubTexture name="WAKEYWAKEY 50005" x="987" y="3929" width="272" height="388"/>
+	<SubTexture name="WAKEYWAKEY 50006" x="1259" y="3929" width="272" height="388"/>
+	<SubTexture name="WAKEYWAKEY 50007" x="1259" y="3929" width="272" height="388"/>
+	<SubTexture name="WAKEYWAKEY 50008" x="1259" y="3929" width="272" height="388"/>
+	<SubTexture name="WAKEYWAKEY 50009" x="1259" y="3929" width="272" height="388"/>
+	<SubTexture name="WAKEYWAKEY 50010" x="1259" y="3929" width="272" height="388"/>
+	<SubTexture name="WAKEYWAKEY 50011" x="1531" y="3929" width="272" height="388"/>
+	<SubTexture name="WAKEYWAKEY 50012" x="1803" y="3929" width="272" height="388"/>
+	<SubTexture name="WAKEYWAKEY 50013" x="1803" y="3929" width="272" height="388"/>
+	<SubTexture name="WAKEYWAKEY 50014" x="2075" y="3929" width="272" height="388"/>
+	<SubTexture name="WAKEYWAKEY 50015" x="2347" y="3929" width="272" height="388"/>
+	<SubTexture name="WAKEYWAKEY 50016" x="2619" y="3929" width="272" height="388"/>
+	<SubTexture name="WAKEYWAKEY 50017" x="2619" y="3929" width="272" height="388"/>
+	<SubTexture name="WAKEYWAKEY 50018" x="2619" y="3929" width="272" height="388"/>
+	<SubTexture name="WAKEYWAKEY 50019" x="2619" y="3929" width="272" height="388"/>
+	<SubTexture name="WAKEYWAKEY 50020" x="2891" y="3929" width="272" height="388"/>
+	<SubTexture name="WAKEYWAKEY 50021" x="2891" y="3929" width="272" height="388"/>
+	<SubTexture name="WAKEYWAKEY 50022" x="3163" y="3929" width="272" height="388"/>
+	<SubTexture name="WAKEYWAKEY 50023" x="3163" y="3929" width="272" height="388"/>
+	<SubTexture name="WAKEYWAKEY 50024" x="3163" y="3929" width="272" height="388"/>
+	<SubTexture name="WAKEYWAKEY 50025" x="3163" y="3929" width="272" height="388"/>
+	<SubTexture name="WAKEYWAKEY 50026" x="3163" y="3929" width="272" height="388"/>
+	<SubTexture name="WAKEYWAKEY 50027" x="3163" y="3929" width="272" height="388"/>
+	<SubTexture name="WAKEYWAKEY 50028" x="3163" y="3929" width="272" height="388"/>
+	<SubTexture name="WAKEYWAKEY 50029" x="3163" y="3929" width="272" height="388"/>
+	<SubTexture name="WAKEYWAKEY 50030" x="3163" y="3929" width="272" height="388"/>
+	<SubTexture name="WAKEYWAKEY 50031" x="3163" y="3929" width="272" height="388"/>
+	<SubTexture name="WAKEYWAKEY 50032" x="3163" y="3929" width="272" height="388"/>
+	<SubTexture name="WAKEYWAKEY 50033" x="3163" y="3929" width="272" height="388"/>
+	<SubTexture name="WAKEYWAKEY 50034" x="3163" y="3929" width="272" height="388"/>
+	<SubTexture name="WAKEYWAKEY 50035" x="3435" y="3929" width="272" height="388"/>
+	<SubTexture name="WAKEYWAKEY 50036" x="3707" y="3929" width="272" height="388"/>
+	<SubTexture name="WAKEYWAKEY 50037" x="3707" y="3929" width="272" height="388"/>
+	<SubTexture name="WAKEYWAKEY 50038" x="3707" y="3929" width="272" height="388"/>
+	<SubTexture name="WAKEYWAKEY 50039" x="3707" y="3929" width="272" height="388"/>
+	<SubTexture name="WAKEYWAKEY 50040" x="3979" y="3929" width="272" height="388"/>
+	<SubTexture name="WAKEYWAKEY 50041" x="3979" y="3929" width="272" height="388"/>
+	<SubTexture name="WAKEYWAKEY 50042" x="4251" y="3929" width="272" height="388"/>
+	<SubTexture name="WAKEYWAKEY 50043" x="4251" y="3929" width="272" height="388"/>
+	<SubTexture name="WAKEYWAKEY 50044" x="4523" y="3929" width="272" height="388"/>
+	<SubTexture name="WAKEYWAKEY 50045" x="4523" y="3929" width="272" height="388"/>
+	<SubTexture name="WAKEYWAKEY 50046" x="4523" y="3929" width="272" height="388"/>
+	<SubTexture name="WAKEYWAKEY 50047" x="4523" y="3929" width="272" height="388"/>
+	<SubTexture name="WAKEYWAKEY 50048" x="4523" y="3929" width="272" height="388"/>
+	<SubTexture name="WAKEYWAKEY 50049" x="4523" y="3929" width="272" height="388"/>
+	<SubTexture name="WAKEYWAKEY 50050" x="4795" y="3929" width="272" height="388"/>
+	<SubTexture name="WAKEYWAKEY 50051" x="4795" y="3929" width="272" height="388"/>
+	<SubTexture name="WAKEYWAKEY 50052" x="5067" y="3929" width="272" height="388"/>
+	<SubTexture name="WAKEYWAKEY 50053" x="5067" y="3929" width="272" height="388"/>
+	<SubTexture name="WAKEYWAKEY 50054" x="5339" y="3929" width="272" height="388"/>
+	<SubTexture name="WAKEYWAKEY 50055" x="5339" y="3929" width="272" height="388"/>
+	<SubTexture name="WAKEYWAKEY 50056" x="5339" y="3929" width="272" height="388"/>
+	<SubTexture name="WAKEYWAKEY 50057" x="5339" y="3929" width="272" height="388"/>
+	<SubTexture name="WAKEYWAKEY 50058" x="5611" y="3929" width="272" height="388"/>
+	<SubTexture name="WAKEYWAKEY 50059" x="5611" y="3929" width="272" height="388"/>
+	<SubTexture name="WAKEYWAKEY 50060" x="5883" y="3929" width="272" height="388"/>
+	<SubTexture name="WAKEYWAKEY 50061" x="5883" y="3929" width="272" height="388"/>
+	<SubTexture name="WAKEYWAKEY 50062" x="6155" y="3929" width="272" height="388"/>
+	<SubTexture name="WAKEYWAKEY 50063" x="6427" y="3929" width="272" height="388"/>
+	<SubTexture name="WAKEYWAKEY 50064" x="6427" y="3929" width="272" height="388"/>
+	<SubTexture name="WAKEYWAKEY 50065" x="6427" y="3929" width="272" height="388"/>
+	<SubTexture name="WAKEYWAKEY 50066" x="6699" y="3929" width="272" height="388"/>
+	<SubTexture name="WAKEYWAKEY 50067" x="6971" y="3929" width="272" height="388"/>
+	<SubTexture name="WAKEYWAKEY 50068" x="6971" y="3929" width="272" height="388"/>
+	<SubTexture name="WAKEYWAKEY 50069" x="6971" y="3929" width="272" height="388"/>
+	<SubTexture name="WAKEYWAKEY 50070" x="6971" y="3929" width="272" height="388"/>
+	<SubTexture name="WAKEYWAKEY 60000" x="7243" y="3929" width="375" height="359" frameX="-8" frameY="-6" frameWidth="385" frameHeight="366"/>
+	<SubTexture name="WAKEYWAKEY 60001" x="7618" y="3929" width="377" height="360" frameX="-8" frameY="-6" frameWidth="385" frameHeight="366"/>
+	<SubTexture name="WAKEYWAKEY 60002" x="7618" y="3929" width="377" height="360" frameX="-8" frameY="-6" frameWidth="385" frameHeight="366"/>
+	<SubTexture name="WAKEYWAKEY 60003" x="0" y="4317" width="377" height="360" frameX="-8" frameY="-6" frameWidth="385" frameHeight="366"/>
+	<SubTexture name="WAKEYWAKEY 60004" x="0" y="4317" width="377" height="360" frameX="-8" frameY="-6" frameWidth="385" frameHeight="366"/>
+	<SubTexture name="WAKEYWAKEY 60005" x="0" y="4317" width="377" height="360" frameX="-8" frameY="-6" frameWidth="385" frameHeight="366"/>
+	<SubTexture name="WAKEYWAKEY 60006" x="377" y="4317" width="377" height="360" frameX="-8" frameY="-6" frameWidth="385" frameHeight="366"/>
+	<SubTexture name="WAKEYWAKEY 60007" x="377" y="4317" width="377" height="360" frameX="-8" frameY="-6" frameWidth="385" frameHeight="366"/>
+	<SubTexture name="WAKEYWAKEY 60008" x="377" y="4317" width="377" height="360" frameX="-8" frameY="-6" frameWidth="385" frameHeight="366"/>
+	<SubTexture name="WAKEYWAKEY 60009" x="754" y="4317" width="377" height="360" frameX="-8" frameY="-6" frameWidth="385" frameHeight="366"/>
+	<SubTexture name="WAKEYWAKEY 60010" x="754" y="4317" width="377" height="360" frameX="-8" frameY="-6" frameWidth="385" frameHeight="366"/>
+	<SubTexture name="WAKEYWAKEY 60011" x="1131" y="4317" width="377" height="360" frameX="-8" frameY="-6" frameWidth="385" frameHeight="366"/>
+	<SubTexture name="WAKEYWAKEY 60012" x="1508" y="4317" width="377" height="360" frameX="-8" frameY="-6" frameWidth="385" frameHeight="366"/>
+	<SubTexture name="WAKEYWAKEY 60013" x="1508" y="4317" width="377" height="360" frameX="-8" frameY="-6" frameWidth="385" frameHeight="366"/>
+	<SubTexture name="WAKEYWAKEY 60014" x="1508" y="4317" width="377" height="360" frameX="-8" frameY="-6" frameWidth="385" frameHeight="366"/>
+	<SubTexture name="WAKEYWAKEY 60015" x="1508" y="4317" width="377" height="360" frameX="-8" frameY="-6" frameWidth="385" frameHeight="366"/>
+	<SubTexture name="WAKEYWAKEY 60016" x="1508" y="4317" width="377" height="360" frameX="-8" frameY="-6" frameWidth="385" frameHeight="366"/>
+	<SubTexture name="WAKEYWAKEY 60017" x="1508" y="4317" width="377" height="360" frameX="-8" frameY="-6" frameWidth="385" frameHeight="366"/>
+	<SubTexture name="WAKEYWAKEY 60018" x="1508" y="4317" width="377" height="360" frameX="-8" frameY="-6" frameWidth="385" frameHeight="366"/>
+	<SubTexture name="WAKEYWAKEY 60019" x="1508" y="4317" width="377" height="360" frameX="-8" frameY="-6" frameWidth="385" frameHeight="366"/>
+	<SubTexture name="WAKEYWAKEY 60020" x="1508" y="4317" width="377" height="360" frameX="-8" frameY="-6" frameWidth="385" frameHeight="366"/>
+	<SubTexture name="WAKEYWAKEY 60021" x="1508" y="4317" width="377" height="360" frameX="-8" frameY="-6" frameWidth="385" frameHeight="366"/>
+	<SubTexture name="WAKEYWAKEY 60022" x="1508" y="4317" width="377" height="360" frameX="-8" frameY="-6" frameWidth="385" frameHeight="366"/>
+	<SubTexture name="WAKEYWAKEY 60023" x="1508" y="4317" width="377" height="360" frameX="-8" frameY="-6" frameWidth="385" frameHeight="366"/>
+	<SubTexture name="WAKEYWAKEY 60024" x="1508" y="4317" width="377" height="360" frameX="-8" frameY="-6" frameWidth="385" frameHeight="366"/>
+	<SubTexture name="WAKEYWAKEY 60025" x="1508" y="4317" width="377" height="360" frameX="-8" frameY="-6" frameWidth="385" frameHeight="366"/>
+	<SubTexture name="WAKEYWAKEY 60026" x="1508" y="4317" width="377" height="360" frameX="-8" frameY="-6" frameWidth="385" frameHeight="366"/>
+	<SubTexture name="WAKEYWAKEY 60027" x="1508" y="4317" width="377" height="360" frameX="-8" frameY="-6" frameWidth="385" frameHeight="366"/>
+	<SubTexture name="WAKEYWAKEY 60028" x="1508" y="4317" width="377" height="360" frameX="-8" frameY="-6" frameWidth="385" frameHeight="366"/>
+	<SubTexture name="WAKEYWAKEY 60029" x="1885" y="4317" width="383" height="365" frameX="0" frameY="0" frameWidth="385" frameHeight="366"/>
+	<SubTexture name="WAKEYWAKEY 60030" x="2268" y="4317" width="385" height="366"/>
+	<SubTexture name="WAKEYWAKEY 60031" x="2268" y="4317" width="385" height="366"/>
+	<SubTexture name="WAKEYWAKEY 60032" x="2268" y="4317" width="385" height="366"/>
+	<SubTexture name="WAKEYWAKEY 60033" x="2653" y="4317" width="385" height="366"/>
+	<SubTexture name="WAKEYWAKEY 60034" x="2653" y="4317" width="385" height="366"/>
+	<SubTexture name="WAKEYWAKEY 60035" x="3038" y="4317" width="385" height="366"/>
+	<SubTexture name="WAKEYWAKEY 60036" x="3038" y="4317" width="385" height="366"/>
+	<SubTexture name="WAKEYWAKEY 60037" x="3038" y="4317" width="385" height="366"/>
+	<SubTexture name="WAKEYWAKEY 60038" x="3423" y="4317" width="385" height="366"/>
+	<SubTexture name="WAKEYWAKEY 60039" x="3423" y="4317" width="385" height="366"/>
+	<SubTexture name="WAKEYWAKEY 60040" x="3808" y="4317" width="385" height="366"/>
+	<SubTexture name="WAKEYWAKEY 60041" x="3808" y="4317" width="385" height="366"/>
+	<SubTexture name="WAKEYWAKEY 60042" x="3808" y="4317" width="385" height="366"/>
+	<SubTexture name="WAKEYWAKEY 60043" x="3808" y="4317" width="385" height="366"/>
+	<SubTexture name="WAKEYWAKEY 60044" x="3808" y="4317" width="385" height="366"/>
+	<SubTexture name="WAKEYWAKEY 60045" x="3808" y="4317" width="385" height="366"/>
+	<SubTexture name="WAKEYWAKEY 60046" x="3808" y="4317" width="385" height="366"/>
+	<SubTexture name="WAKEYWAKEY 60047" x="3808" y="4317" width="385" height="366"/>
+	<SubTexture name="WAKEYWAKEY 60048" x="3808" y="4317" width="385" height="366"/>
+	<SubTexture name="WAKEYWAKEY 60049" x="3808" y="4317" width="385" height="366"/>
+	<SubTexture name="WAKEYWAKEY 60050" x="3808" y="4317" width="385" height="366"/>
+	<SubTexture name="WAKEYWAKEY 60051" x="3808" y="4317" width="385" height="366"/>
+	<SubTexture name="WAKEYWAKEY 60052" x="3808" y="4317" width="385" height="366"/>
+	<SubTexture name="WAKEYWAKEY 60053" x="3808" y="4317" width="385" height="366"/>
+	<SubTexture name="WAKEYWAKEY 60054" x="3808" y="4317" width="385" height="366"/>
+	<SubTexture name="WAKEYWAKEY 60055" x="3808" y="4317" width="385" height="366"/>
+	<SubTexture name="WAKEYWAKEY 60056" x="3808" y="4317" width="385" height="366"/>
+	<SubTexture name="WAKEYWAKEY 70000" x="4193" y="4317" width="249" height="329" frameX="0" frameY="-57" frameWidth="284" frameHeight="387"/>
+	<SubTexture name="WAKEYWAKEY 70001" x="4442" y="4317" width="249" height="349" frameX="0" frameY="-37" frameWidth="284" frameHeight="387"/>
+	<SubTexture name="WAKEYWAKEY 70002" x="4442" y="4317" width="249" height="349" frameX="0" frameY="-37" frameWidth="284" frameHeight="387"/>
+	<SubTexture name="WAKEYWAKEY 70003" x="4442" y="4317" width="249" height="349" frameX="0" frameY="-37" frameWidth="284" frameHeight="387"/>
+	<SubTexture name="WAKEYWAKEY 70004" x="4442" y="4317" width="249" height="349" frameX="0" frameY="-37" frameWidth="284" frameHeight="387"/>
+	<SubTexture name="WAKEYWAKEY 70005" x="4442" y="4317" width="249" height="349" frameX="0" frameY="-37" frameWidth="284" frameHeight="387"/>
+	<SubTexture name="WAKEYWAKEY 70006" x="4442" y="4317" width="249" height="349" frameX="0" frameY="-37" frameWidth="284" frameHeight="387"/>
+	<SubTexture name="WAKEYWAKEY 70007" x="4442" y="4317" width="249" height="349" frameX="0" frameY="-37" frameWidth="284" frameHeight="387"/>
+	<SubTexture name="WAKEYWAKEY 70008" x="4442" y="4317" width="249" height="349" frameX="0" frameY="-37" frameWidth="284" frameHeight="387"/>
+	<SubTexture name="WAKEYWAKEY 70009" x="4442" y="4317" width="249" height="349" frameX="0" frameY="-37" frameWidth="284" frameHeight="387"/>
+	<SubTexture name="WAKEYWAKEY 70010" x="4442" y="4317" width="249" height="349" frameX="0" frameY="-37" frameWidth="284" frameHeight="387"/>
+	<SubTexture name="WAKEYWAKEY 70011" x="4442" y="4317" width="249" height="349" frameX="0" frameY="-37" frameWidth="284" frameHeight="387"/>
+	<SubTexture name="WAKEYWAKEY 70012" x="4442" y="4317" width="249" height="349" frameX="0" frameY="-37" frameWidth="284" frameHeight="387"/>
+	<SubTexture name="WAKEYWAKEY 70013" x="4442" y="4317" width="249" height="349" frameX="0" frameY="-37" frameWidth="284" frameHeight="387"/>
+	<SubTexture name="WAKEYWAKEY 70014" x="4442" y="4317" width="249" height="349" frameX="0" frameY="-37" frameWidth="284" frameHeight="387"/>
+	<SubTexture name="WAKEYWAKEY 70015" x="4691" y="4317" width="283" height="387" frameX="-1" frameY="0" frameWidth="284" frameHeight="387"/>
+	<SubTexture name="WAKEYWAKEY 70016" x="4974" y="4317" width="283" height="379" frameX="-1" frameY="-8" frameWidth="284" frameHeight="387"/>
+	<SubTexture name="WAKEYWAKEY 70017" x="5257" y="4317" width="283" height="379" frameX="-1" frameY="-8" frameWidth="284" frameHeight="387"/>
+	<SubTexture name="WAKEYWAKEY 70018" x="5257" y="4317" width="283" height="379" frameX="-1" frameY="-8" frameWidth="284" frameHeight="387"/>
+	<SubTexture name="WAKEYWAKEY 70019" x="5257" y="4317" width="283" height="379" frameX="-1" frameY="-8" frameWidth="284" frameHeight="387"/>
+	<SubTexture name="WAKEYWAKEY 70020" x="5257" y="4317" width="283" height="379" frameX="-1" frameY="-8" frameWidth="284" frameHeight="387"/>
+	<SubTexture name="WAKEYWAKEY 70021" x="5540" y="4317" width="283" height="379" frameX="-1" frameY="-8" frameWidth="284" frameHeight="387"/>
+	<SubTexture name="WAKEYWAKEY 70022" x="5540" y="4317" width="283" height="379" frameX="-1" frameY="-8" frameWidth="284" frameHeight="387"/>
+	<SubTexture name="WAKEYWAKEY 70023" x="5540" y="4317" width="283" height="379" frameX="-1" frameY="-8" frameWidth="284" frameHeight="387"/>
+	<SubTexture name="WAKEYWAKEY 70024" x="5823" y="4317" width="283" height="379" frameX="-1" frameY="-8" frameWidth="284" frameHeight="387"/>
+	<SubTexture name="WAKEYWAKEY 70025" x="5823" y="4317" width="283" height="379" frameX="-1" frameY="-8" frameWidth="284" frameHeight="387"/>
+	<SubTexture name="WAKEYWAKEY 70026" x="5823" y="4317" width="283" height="379" frameX="-1" frameY="-8" frameWidth="284" frameHeight="387"/>
+	<SubTexture name="WAKEYWAKEY 70027" x="5823" y="4317" width="283" height="379" frameX="-1" frameY="-8" frameWidth="284" frameHeight="387"/>
+	<SubTexture name="WAKEYWAKEY 70028" x="5823" y="4317" width="283" height="379" frameX="-1" frameY="-8" frameWidth="284" frameHeight="387"/>
+	<SubTexture name="WAKEYWAKEY 70029" x="5823" y="4317" width="283" height="379" frameX="-1" frameY="-8" frameWidth="284" frameHeight="387"/>
+	<SubTexture name="WAKEYWAKEY 70030" x="5823" y="4317" width="283" height="379" frameX="-1" frameY="-8" frameWidth="284" frameHeight="387"/>
+	<SubTexture name="WAKEYWAKEY 80000" x="6106" y="4317" width="319" height="377" frameX="0" frameY="-2" frameWidth="319" frameHeight="379"/>
+	<SubTexture name="WAKEYWAKEY 80001" x="6425" y="4317" width="318" height="374" frameX="0" frameY="0" frameWidth="319" frameHeight="379"/>
+	<SubTexture name="WAKEYWAKEY 80002" x="6425" y="4317" width="318" height="374" frameX="0" frameY="0" frameWidth="319" frameHeight="379"/>
+	<SubTexture name="WAKEYWAKEY 80003" x="6425" y="4317" width="318" height="374" frameX="0" frameY="0" frameWidth="319" frameHeight="379"/>
+	<SubTexture name="WAKEYWAKEY 80004" x="6425" y="4317" width="318" height="374" frameX="0" frameY="0" frameWidth="319" frameHeight="379"/>
+	<SubTexture name="WAKEYWAKEY 80005" x="6425" y="4317" width="318" height="374" frameX="0" frameY="0" frameWidth="319" frameHeight="379"/>
+	<SubTexture name="WAKEYWAKEY 80006" x="6425" y="4317" width="318" height="374" frameX="0" frameY="0" frameWidth="319" frameHeight="379"/>
+	<SubTexture name="WAKEYWAKEY 80007" x="6425" y="4317" width="318" height="374" frameX="0" frameY="0" frameWidth="319" frameHeight="379"/>
+	<SubTexture name="WAKEYWAKEY 80008" x="6425" y="4317" width="318" height="374" frameX="0" frameY="0" frameWidth="319" frameHeight="379"/>
+	<SubTexture name="WAKEYWAKEY 80009" x="6425" y="4317" width="318" height="374" frameX="0" frameY="0" frameWidth="319" frameHeight="379"/>
+	<SubTexture name="WAKEYWAKEY 80010" x="6425" y="4317" width="318" height="374" frameX="0" frameY="0" frameWidth="319" frameHeight="379"/>
+	<SubTexture name="WAKEYWAKEY 80011" x="6425" y="4317" width="318" height="374" frameX="0" frameY="0" frameWidth="319" frameHeight="379"/>
+	<SubTexture name="WAKEYWAKEY 80012" x="6425" y="4317" width="318" height="374" frameX="0" frameY="0" frameWidth="319" frameHeight="379"/>
+	<SubTexture name="WAKEYWAKEY 80013" x="6425" y="4317" width="318" height="374" frameX="0" frameY="0" frameWidth="319" frameHeight="379"/>
+	<SubTexture name="WAKEYWAKEY 80014" x="6425" y="4317" width="318" height="374" frameX="0" frameY="0" frameWidth="319" frameHeight="379"/>
+	<SubTexture name="WAKEYWAKEY 80015" x="6425" y="4317" width="318" height="374" frameX="0" frameY="0" frameWidth="319" frameHeight="379"/>
+	<SubTexture name="WAKEYWAKEY 80016" x="6425" y="4317" width="318" height="374" frameX="0" frameY="0" frameWidth="319" frameHeight="379"/>
+	<SubTexture name="WAKEYWAKEY 80017" x="6425" y="4317" width="318" height="374" frameX="0" frameY="0" frameWidth="319" frameHeight="379"/>
+	<SubTexture name="WAKEYWAKEY 80018" x="6425" y="4317" width="318" height="374" frameX="0" frameY="0" frameWidth="319" frameHeight="379"/>
+	<SubTexture name="WAKEYWAKEY 80019" x="6425" y="4317" width="318" height="374" frameX="0" frameY="0" frameWidth="319" frameHeight="379"/>
+	<SubTexture name="WAKEYWAKEY 80020" x="6743" y="4317" width="257" height="372" frameX="-41" frameY="0" frameWidth="319" frameHeight="379"/>
+	<SubTexture name="WAKEYWAKEY 80021" x="7000" y="4317" width="257" height="374" frameX="-42" frameY="0" frameWidth="319" frameHeight="379"/>
+	<SubTexture name="WAKEYWAKEY 80022" x="7000" y="4317" width="257" height="374" frameX="-42" frameY="0" frameWidth="319" frameHeight="379"/>
+	<SubTexture name="WAKEYWAKEY 80023" x="7000" y="4317" width="257" height="374" frameX="-42" frameY="0" frameWidth="319" frameHeight="379"/>
+	<SubTexture name="WAKEYWAKEY 80024" x="7000" y="4317" width="257" height="374" frameX="-42" frameY="0" frameWidth="319" frameHeight="379"/>
+	<SubTexture name="WAKEYWAKEY 80025" x="7000" y="4317" width="257" height="374" frameX="-42" frameY="0" frameWidth="319" frameHeight="379"/>
+	<SubTexture name="WAKEYWAKEY 80026" x="7000" y="4317" width="257" height="374" frameX="-42" frameY="0" frameWidth="319" frameHeight="379"/>
+	<SubTexture name="WAKEYWAKEY 80027" x="7000" y="4317" width="257" height="374" frameX="-42" frameY="0" frameWidth="319" frameHeight="379"/>
+	<SubTexture name="WAKEYWAKEY 80028" x="7000" y="4317" width="257" height="374" frameX="-42" frameY="0" frameWidth="319" frameHeight="379"/>
+	<SubTexture name="WAKEYWAKEY 80029" x="7000" y="4317" width="257" height="374" frameX="-42" frameY="0" frameWidth="319" frameHeight="379"/>
+	<SubTexture name="WAKEYWAKEY 80030" x="7000" y="4317" width="257" height="374" frameX="-42" frameY="0" frameWidth="319" frameHeight="379"/>
+	<SubTexture name="WAKEYWAKEY 80031" x="7000" y="4317" width="257" height="374" frameX="-42" frameY="0" frameWidth="319" frameHeight="379"/>
+	<SubTexture name="WAKEYWAKEY 80032" x="7000" y="4317" width="257" height="374" frameX="-42" frameY="0" frameWidth="319" frameHeight="379"/>
+	<SubTexture name="WAKEYWAKEY 80033" x="7000" y="4317" width="257" height="374" frameX="-42" frameY="0" frameWidth="319" frameHeight="379"/>
+	<SubTexture name="WAKEYWAKEY 80034" x="7000" y="4317" width="257" height="374" frameX="-42" frameY="0" frameWidth="319" frameHeight="379"/>
+	<SubTexture name="WAKEYWAKEY 80035" x="7000" y="4317" width="257" height="374" frameX="-42" frameY="0" frameWidth="319" frameHeight="379"/>
+	<SubTexture name="WAKEYWAKEY 80036" x="7000" y="4317" width="257" height="374" frameX="-42" frameY="0" frameWidth="319" frameHeight="379"/>
+	<SubTexture name="WAKEYWAKEY 80037" x="7000" y="4317" width="257" height="374" frameX="-42" frameY="0" frameWidth="319" frameHeight="379"/>
+	<SubTexture name="WAKEYWAKEY 80038" x="7000" y="4317" width="257" height="374" frameX="-42" frameY="0" frameWidth="319" frameHeight="379"/>
+	<SubTexture name="WAKEYWAKEY 80039" x="7000" y="4317" width="257" height="374" frameX="-42" frameY="0" frameWidth="319" frameHeight="379"/>
+	<SubTexture name="WAKEYWAKEY 80040" x="7000" y="4317" width="257" height="374" frameX="-42" frameY="0" frameWidth="319" frameHeight="379"/>
+	<SubTexture name="WAKEYWAKEY 9 0000" x="7257" y="4317" width="313" height="341" frameX="0" frameY="-126" frameWidth="313" frameHeight="467"/>
+	<SubTexture name="WAKEYWAKEY 9 0001" x="7570" y="4317" width="313" height="440" frameX="0" frameY="-27" frameWidth="313" frameHeight="467"/>
+	<SubTexture name="WAKEYWAKEY 9 0002" x="0" y="4757" width="313" height="449" frameX="0" frameY="-18" frameWidth="313" frameHeight="467"/>
+	<SubTexture name="WAKEYWAKEY 9 0003" x="313" y="4757" width="313" height="467"/>
+	<SubTexture name="WAKEYWAKEY 9 0004" x="313" y="4757" width="313" height="467"/>
+	<SubTexture name="WAKEYWAKEY 9 0005" x="313" y="4757" width="313" height="467"/>
+	<SubTexture name="WAKEYWAKEY 9 0006" x="626" y="4757" width="313" height="453" frameX="0" frameY="-14" frameWidth="313" frameHeight="467"/>
+	<SubTexture name="WAKEYWAKEY 9 0007" x="939" y="4757" width="313" height="443" frameX="0" frameY="-24" frameWidth="313" frameHeight="467"/>
+	<SubTexture name="WAKEYWAKEY 9 0008" x="1252" y="4757" width="313" height="380" frameX="0" frameY="-87" frameWidth="313" frameHeight="467"/>
+	<SubTexture name="WAKEYWAKEY 9 0009" x="1565" y="4757" width="313" height="380" frameX="0" frameY="-87" frameWidth="313" frameHeight="467"/>
+	<SubTexture name="WAKEYWAKEY 9 0010" x="1565" y="4757" width="313" height="380" frameX="0" frameY="-87" frameWidth="313" frameHeight="467"/>
+	<SubTexture name="WAKEYWAKEY 9 0011" x="1565" y="4757" width="313" height="380" frameX="0" frameY="-87" frameWidth="313" frameHeight="467"/>
+	<SubTexture name="WAKEYWAKEY 9 0012" x="1565" y="4757" width="313" height="380" frameX="0" frameY="-87" frameWidth="313" frameHeight="467"/>
+	<SubTexture name="WAKEYWAKEY 9 0013" x="1565" y="4757" width="313" height="380" frameX="0" frameY="-87" frameWidth="313" frameHeight="467"/>
+	<SubTexture name="WAKEYWAKEY 9 0014" x="1878" y="4757" width="313" height="380" frameX="0" frameY="-87" frameWidth="313" frameHeight="467"/>
+	<SubTexture name="WAKEYWAKEY 9 0015" x="1878" y="4757" width="313" height="380" frameX="0" frameY="-87" frameWidth="313" frameHeight="467"/>
+	<SubTexture name="WAKEYWAKEY 9 0016" x="2191" y="4757" width="313" height="380" frameX="0" frameY="-87" frameWidth="313" frameHeight="467"/>
+	<SubTexture name="WAKEYWAKEY 9 0017" x="2191" y="4757" width="313" height="380" frameX="0" frameY="-87" frameWidth="313" frameHeight="467"/>
+	<SubTexture name="WAKEYWAKEY 9 0018" x="2504" y="4757" width="313" height="380" frameX="0" frameY="-87" frameWidth="313" frameHeight="467"/>
+	<SubTexture name="WAKEYWAKEY 9 0019" x="2504" y="4757" width="313" height="380" frameX="0" frameY="-87" frameWidth="313" frameHeight="467"/>
+	<SubTexture name="WAKEYWAKEY 9 0020" x="2504" y="4757" width="313" height="380" frameX="0" frameY="-87" frameWidth="313" frameHeight="467"/>
+	<SubTexture name="WAKEYWAKEY 9 0021" x="2504" y="4757" width="313" height="380" frameX="0" frameY="-87" frameWidth="313" frameHeight="467"/>
+	<SubTexture name="WAKEYWAKEY 9 0022" x="2504" y="4757" width="313" height="380" frameX="0" frameY="-87" frameWidth="313" frameHeight="467"/>
+	<SubTexture name="WAKEYWAKEY 9 0023" x="2504" y="4757" width="313" height="380" frameX="0" frameY="-87" frameWidth="313" frameHeight="467"/>
+	<SubTexture name="WAKEYWAKEY 9 0024" x="2504" y="4757" width="313" height="380" frameX="0" frameY="-87" frameWidth="313" frameHeight="467"/>
+	<SubTexture name="WAKEYWAKEY 9 0025" x="2504" y="4757" width="313" height="380" frameX="0" frameY="-87" frameWidth="313" frameHeight="467"/>
+	<SubTexture name="WAKEYWAKEY 9 0026" x="2504" y="4757" width="313" height="380" frameX="0" frameY="-87" frameWidth="313" frameHeight="467"/>
+	<SubTexture name="WAKEYWAKEY 9 0027" x="2504" y="4757" width="313" height="380" frameX="0" frameY="-87" frameWidth="313" frameHeight="467"/>
+	<SubTexture name="WAKEYWAKEY 9 0028" x="2504" y="4757" width="313" height="380" frameX="0" frameY="-87" frameWidth="313" frameHeight="467"/>
+	<SubTexture name="WAKEYWAKEY 9 0029" x="2504" y="4757" width="313" height="380" frameX="0" frameY="-87" frameWidth="313" frameHeight="467"/>
+	<SubTexture name="WAKEYWAKEY 9 0030" x="2504" y="4757" width="313" height="380" frameX="0" frameY="-87" frameWidth="313" frameHeight="467"/>
+	<SubTexture name="WAKEYWAKEY 9 0031" x="2504" y="4757" width="313" height="380" frameX="0" frameY="-87" frameWidth="313" frameHeight="467"/>
+</TextureAtlas>

@@ -1,0 +1,15 @@
+:dad:Ah, hello there!
+:dad:Are you new here? I dont believe weve met before.
+:bf:Beep bo bop
+:dad:Im sorry I didnt quite catch that.
+:bf:Bop beep be
+:dad:...
+:dad:Is this some sort of prank?
+:bf:Be skdoo bep
+:dad:Do you... understand me? Can you even hear what Im saying to you?
+:bf:Beep bo
+:dad:Oh! You have a microphone!
+:dad:Would you like to sing?
+:bf:Bep
+:dad:O-ok then! A sing-off it is! 
+

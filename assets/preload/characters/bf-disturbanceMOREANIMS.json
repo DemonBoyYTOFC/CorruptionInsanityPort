@@ -1,0 +1,287 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "BF idle dance"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-71
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				165,
+				24
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-18,
+				33
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				94,
+				87
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-20
+			],
+			"anim": "now really",
+			"fps": 24,
+			"name": "Now really0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-40
+			],
+			"anim": "UHOH",
+			"fps": 24,
+			"name": "UHOH0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				327,
+				19
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Left miss0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				98,
+				-79
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "Down miss0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				84,
+				87
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "Up miss0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				36,
+				22
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "Right miss0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				67,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "angry",
+			"indices": [],
+			"name": "Grrr angy angy0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				53,
+				-40
+			],
+			"anim": "wakeywakey",
+			"fps": 24,
+			"name": "WAKEYWAKEY0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				53,
+				-72
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "wakeywakeyalt",
+			"indices": [],
+			"name": "WAKEYWAKEY 2"
+		},
+		{
+			"offsets": [
+				-2,
+				-43
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "wakeywakeyalt2",
+			"indices": [],
+			"name": "WAKEYWAKEY 3"
+		},
+		{
+			"offsets": [
+				90,
+				-73
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "wakeywakeyalt3",
+			"indices": [],
+			"name": "WAKEYWAKEY 4"
+		},
+		{
+			"offsets": [
+				0,
+				-40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "wakeywakeyalt4",
+			"indices": [],
+			"name": "WAKEYWAKEY 5"
+		},
+		{
+			"offsets": [
+				100,
+				-57
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "wakeywakeyalt5",
+			"indices": [],
+			"name": "WAKEYWAKEY 6"
+		},
+		{
+			"offsets": [
+				-20,
+				-38
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "wakeywakeyalt6",
+			"indices": [],
+			"name": "WAKEYWAKEY 7"
+		},
+		{
+			"offsets": [
+				20,
+				-60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "wakeywakeyalt7",
+			"indices": [],
+			"name": "WAKEYWAKEY 8"
+		},
+		{
+			"offsets": [
+				34,
+				40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "wakeywakeyalt8",
+			"indices": [],
+			"name": "WAKEYWAKEY 9"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "wakeywakeyalt9",
+			"indices": [],
+			"name": "WAKEYWAKEY 10"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				80,
+				0
+			],
+			"anim": "UHOHalt",
+			"fps": 24,
+			"name": "UHOH 2",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				113,
+				-30
+			],
+			"anim": "UHOHalt2",
+			"fps": 24,
+			"name": "UHOH 3",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "GOOB/MADBOYFRIEND (4)",
+	"position": [
+		180,
+		320
+	],
+	"healthicon": "bf-goob",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

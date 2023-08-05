@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="the t glow.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Train0000" x="0" y="0" width="1904" height="1016" pivotX="270.9" pivotY="223.8"/>
+	<SubTexture name="Train0001" x="0" y="0" width="1904" height="1016"/>
+	<SubTexture name="Train0002" x="1904" y="0" width="1904" height="1016"/>
+	<SubTexture name="Train0003" x="1904" y="0" width="1904" height="1016"/>
+	<SubTexture name="Train0004" x="0" y="1016" width="1904" height="1016"/>
+	<SubTexture name="Train0005" x="0" y="1016" width="1904" height="1016"/>
+	<SubTexture name="Train0006" x="1904" y="1016" width="1904" height="1016"/>
+	<SubTexture name="Train0007" x="1904" y="1016" width="1904" height="1016"/>
+	<SubTexture name="Train0008" x="0" y="2032" width="1904" height="1016"/>
+	<SubTexture name="Train0009" x="0" y="2032" width="1904" height="1016"/>
+	<SubTexture name="Train0010" x="0" y="3048" width="1904" height="1016"/>
+	<SubTexture name="Train0011" x="0" y="3048" width="1904" height="1016"/>
+	<SubTexture name="Train0012" x="1904" y="2032" width="1904" height="1016"/>
+	<SubTexture name="Train0013" x="1904" y="2032" width="1904" height="1016"/>
+	<SubTexture name="Train0014" x="1904" y="2032" width="1904" height="1016"/>
+	<SubTexture name="Train0015" x="1904" y="2032" width="1904" height="1016"/>
+	<SubTexture name="Train0016" x="0" y="3048" width="1904" height="1016"/>
+	<SubTexture name="Train0017" x="0" y="3048" width="1904" height="1016"/>
+	<SubTexture name="Train0018" x="0" y="2032" width="1904" height="1016"/>
+	<SubTexture name="Train0019" x="0" y="2032" width="1904" height="1016"/>
+	<SubTexture name="Train0020" x="1904" y="1016" width="1904" height="1016"/>
+	<SubTexture name="Train0021" x="1904" y="1016" width="1904" height="1016"/>
+	<SubTexture name="Train0022" x="0" y="1016" width="1904" height="1016"/>
+	<SubTexture name="Train0023" x="0" y="1016" width="1904" height="1016"/>
+	<SubTexture name="Train0024" x="1904" y="3048" width="1904" height="1016"/>
+	<SubTexture name="Train0025" x="1904" y="3048" width="1904" height="1016"/>
+	<SubTexture name="Train0026" x="0" y="0" width="1904" height="1016"/>
+	<SubTexture name="Train0027" x="0" y="0" width="1904" height="1016"/>
+	<SubTexture name="Train0028" x="0" y="0" width="1904" height="1016"/>
+	<SubTexture name="Train0029" x="0" y="0" width="1904" height="1016"/>
+	<SubTexture name="Train0030" x="0" y="0" width="1904" height="1016"/>
+</TextureAtlas>

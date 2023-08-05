@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="big meteors.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BIG0000" x="0" y="0" width="311" height="160"/>
+	<SubTexture name="BIG0001" x="0" y="0" width="311" height="160"/>
+	<SubTexture name="BIG0002" x="0" y="160" width="311" height="160"/>
+	<SubTexture name="BIG0003" x="0" y="160" width="311" height="160"/>
+	<SubTexture name="BIG0004" x="0" y="320" width="311" height="160"/>
+	<SubTexture name="BIG0005" x="0" y="320" width="311" height="160"/>
+</TextureAtlas>

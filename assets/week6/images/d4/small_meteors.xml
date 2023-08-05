@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="small meteors.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="SMALL0000" x="0" y="0" width="311" height="160" frameX="-1" frameY="0" frameWidth="312" frameHeight="160"/>
+	<SubTexture name="SMALL0001" x="0" y="0" width="311" height="160" frameX="-1" frameY="0" frameWidth="312" frameHeight="160"/>
+	<SubTexture name="SMALL0002" x="0" y="160" width="311" height="160" frameX="0" frameY="0" frameWidth="312" frameHeight="160"/>
+	<SubTexture name="SMALL0003" x="0" y="160" width="311" height="160" frameX="0" frameY="0" frameWidth="312" frameHeight="160"/>
+	<SubTexture name="SMALL0004" x="0" y="320" width="311" height="160" frameX="0" frameY="0" frameWidth="312" frameHeight="160"/>
+	<SubTexture name="SMALL0005" x="0" y="320" width="311" height="160" frameX="0" frameY="0" frameWidth="312" frameHeight="160"/>
+</TextureAtlas>
